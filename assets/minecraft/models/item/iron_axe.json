@@ -7,6 +7,10 @@
     {
       "predicate": { "custom_model_data": 1337001 },
       "model": "custom/butcher_iron_axe"
+    },
+    {
+      "predicate": { "custom_model_data": 1337002 },
+      "model": "custom/how_iron_axe"
     }
   ]
 }
