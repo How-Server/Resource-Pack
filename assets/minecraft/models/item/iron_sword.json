@@ -6,7 +6,7 @@
   "overrides": [
     {
       "predicate": { "custom_model_data": 1337001 },
-      "model": "item/small_iron_sword"
+      "model": "custom/small_iron_sword"
     }
   ]
 }
