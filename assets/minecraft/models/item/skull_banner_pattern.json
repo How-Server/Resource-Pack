@@ -1,0 +1,12 @@
+{
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "item/skull_banner_pattern"
+    },
+    "overrides": [
+      {
+        "predicate": { "custom_model_data": 1337001 },
+        "model": "omamori/black"
+      }
+    ]
+  }

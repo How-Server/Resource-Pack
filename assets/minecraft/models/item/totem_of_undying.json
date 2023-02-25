@@ -1,7 +1,7 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/flower_banner_pattern"
+    "layer0": "item/totem_of_undying"
   },
   "overrides": [
     {
@@ -11,10 +11,6 @@
     {
       "predicate": { "custom_model_data": 1337002 },
       "model": "omamori/purple"
-    },
-    {
-      "predicate": { "custom_model_data": 1337003 },
-      "model": "omamori/black"
     }
   ]
 }
