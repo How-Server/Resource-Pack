@@ -1,0 +1,16 @@
+{
+    "parent": "item/generated",
+    "textures": {
+      "layer0": "item/flower_banner_pattern"
+    },
+    "overrides": [
+      {
+        "predicate": { "custom_model_data": 1337001 },
+        "model": "omamori/blue"
+      },
+      {
+        "predicate": { "custom_model_data": 1337002 },
+        "model": "omamori/purple"
+      }
+    ]
+  }

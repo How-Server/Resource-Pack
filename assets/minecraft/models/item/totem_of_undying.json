@@ -7,10 +7,6 @@
     {
       "predicate": { "custom_model_data": 1337001 },
       "model": "omamori/red"
-    },
-    {
-      "predicate": { "custom_model_data": 1337002 },
-      "model": "omamori/purple"
     }
   ]
 }
