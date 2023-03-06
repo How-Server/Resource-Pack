@@ -35,6 +35,14 @@
     {
       "predicate": { "custom_model_data": 1337008 },
       "model": "paper/paper_rainbow"
+    },
+    {
+      "predicate": { "custom_model_data": 1337031 },
+      "model": "paper/token_how"
+    },
+    {
+      "predicate": { "custom_model_data": 1337032 },
+      "model": "paper/token_iekea"
     }
   ]
 }
