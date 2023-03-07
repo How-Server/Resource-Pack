@@ -43,6 +43,10 @@
     {
       "predicate": { "custom_model_data": 1337032 },
       "model": "paper/token_iekea"
+    },
+    {
+      "predicate": { "custom_model_data": 1337033 },
+      "model": "paper/token_head"
     }
   ]
 }
