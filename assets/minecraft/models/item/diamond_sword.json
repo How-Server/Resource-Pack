@@ -7,6 +7,12 @@
     {
       "predicate": { "custom_model_data": 1337001 },
       "model": "custom/fish_diamond_sword"
+    },{
+      "predicate": { "custom_model_data": 1337002 },
+      "model": "custom/test"
+    },{
+      "predicate": { "custom_model_data": 1337003 },
+      "model": "custom/test2"
     }
   ]
 }

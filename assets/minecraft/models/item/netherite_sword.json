@@ -7,6 +7,18 @@
     {
       "predicate": { "custom_model_data": 1337001 },
       "model": "custom/fish_netherite_sword"
+    },{
+      "predicate": { "custom_model_data": 1337002 },
+      "model": "custom/kitana"
+    },{
+      "predicate": { "custom_model_data": 1337003 },
+      "model": "custom/sakura_kitana"
+    },{
+      "predicate": { "custom_model_data": 1337004 },
+      "model": "custom/black_kitana"
+    },{
+      "predicate": { "custom_model_data": 1337005 },
+      "model": "custom/blaze_netherite_sword"
     }
   ]
 }
