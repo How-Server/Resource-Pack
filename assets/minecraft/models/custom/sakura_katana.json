@@ -2,28 +2,28 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [4, 4],
 	"textures": {
-		"1": "item/sakura_kitana/2",
-		"2": "item/sakura_kitana/3",
-		"3": "item/sakura_kitana/4",
-		"4": "item/sakura_kitana/5",
-		"5": "item/sakura_kitana/6",
-		"7": "item/sakura_kitana/8",
-		"8": "item/sakura_kitana/7",
-		"10": "item/sakura_kitana/1",
-		"11": "item/sakura_kitana/16",
-		"12": "item/sakura_kitana/17",
-		"13": "item/sakura_kitana/18",
-		"14": "item/sakura_kitana/19",
-		"15": "item/sakura_kitana/20",
-		"16": "item/sakura_kitana/21",
-		"17": "item/sakura_kitana/23",
-		"18": "item/sakura_kitana/60",
-		"19": "item/sakura_kitana/61",
-		"20": "item/sakura_kitana/2-1",
-		"21": "item/sakura_kitana/2-2",
-		"22": "item/sakura_kitana/2-4",
-		"23": "item/sakura_kitana/2-9",
-		"particle": "item/sakura_kitana/1"
+		"1": "item/sakura_katana/2",
+		"2": "item/sakura_katana/3",
+		"3": "item/sakura_katana/4",
+		"4": "item/sakura_katana/5",
+		"5": "item/sakura_katana/6",
+		"7": "item/sakura_katana/8",
+		"8": "item/sakura_katana/7",
+		"10": "item/sakura_katana/1",
+		"11": "item/sakura_katana/16",
+		"12": "item/sakura_katana/17",
+		"13": "item/sakura_katana/18",
+		"14": "item/sakura_katana/19",
+		"15": "item/sakura_katana/20",
+		"16": "item/sakura_katana/21",
+		"17": "item/sakura_katana/23",
+		"18": "item/sakura_katana/60",
+		"19": "item/sakura_katana/61",
+		"20": "item/sakura_katana/2-1",
+		"21": "item/sakura_katana/2-2",
+		"22": "item/sakura_katana/2-4",
+		"23": "item/sakura_katana/2-9",
+		"particle": "item/sakura_katana/1"
 	},
 	"elements": [
 		{
@@ -971,9 +971,9 @@
 			"scale": [0.66, 0.66, 1]
 		},
 		"head": {
-			"rotation": [0, 0, 147],
-			"translation": [4, 8, 7.75],
-			"scale": [0.8, 0.8, 1]
+			"rotation": [0, 0, 180],
+			"translation": [5, 13, 7.25],
+			"scale": [1.2, 1.2, 1]
 		},
 		"fixed": {
 			"rotation": [0, 0, 89],

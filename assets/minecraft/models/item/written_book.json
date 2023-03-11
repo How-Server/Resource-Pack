@@ -1,13 +1,12 @@
 {
-    "parent": "item/generated",
-    "textures": {
-      "layer0": "item/written_book"
-    },
-    "overrides": [
-      {
-        "predicate": { "custom_model_data": 1337001 },
-        "model": "custom/how_fairy"
-      }
-    ]
-  }
-  
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/written_book"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1337001 },
+      "model": "custom/fairy_Howie"
+    }
+  ]
+}

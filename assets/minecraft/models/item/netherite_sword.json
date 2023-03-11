@@ -9,13 +9,13 @@
       "model": "custom/fish_netherite_sword"
     },{
       "predicate": { "custom_model_data": 1337002 },
-      "model": "custom/kitana"
+      "model": "custom/katana"
     },{
       "predicate": { "custom_model_data": 1337003 },
-      "model": "custom/sakura_kitana"
+      "model": "custom/sakura_katana"
     },{
       "predicate": { "custom_model_data": 1337004 },
-      "model": "custom/black_kitana"
+      "model": "custom/black_katana"
     },{
       "predicate": { "custom_model_data": 1337005 },
       "model": "custom/blaze_netherite_sword"

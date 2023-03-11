@@ -1,28 +1,28 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/black_kitana/1",
-		"1": "item/black_kitana/2",
-		"2": "item/black_kitana/2-1",
-		"3": "item/black_kitana/2-2",
-		"4": "item/black_kitana/2-4",
-		"5": "item/black_kitana/2-9",
-		"6": "item/black_kitana/3",
-		"7": "item/black_kitana/4",
-		"8": "item/black_kitana/5",
-		"9": "item/black_kitana/6",
-		"10": "item/black_kitana/7",
-		"11": "item/black_kitana/8",
-		"12": "item/black_kitana/16",
-		"13": "item/black_kitana/17",
-		"14": "item/black_kitana/18",
-		"15": "item/black_kitana/19",
-		"16": "item/black_kitana/20",
-		"17": "item/black_kitana/21",
-		"18": "item/black_kitana/23",
-		"19": "item/black_kitana/60",
-		"20": "item/black_kitana/61",
-		"particle": "item/black_kitana/1"
+		"0": "item/black_katana/1",
+		"1": "item/black_katana/2",
+		"2": "item/black_katana/2-1",
+		"3": "item/black_katana/2-2",
+		"4": "item/black_katana/2-4",
+		"5": "item/black_katana/2-9",
+		"6": "item/black_katana/3",
+		"7": "item/black_katana/4",
+		"8": "item/black_katana/5",
+		"9": "item/black_katana/6",
+		"10": "item/black_katana/7",
+		"11": "item/black_katana/8",
+		"12": "item/black_katana/16",
+		"13": "item/black_katana/17",
+		"14": "item/black_katana/18",
+		"15": "item/black_katana/19",
+		"16": "item/black_katana/20",
+		"17": "item/black_katana/21",
+		"18": "item/black_katana/23",
+		"19": "item/black_katana/60",
+		"20": "item/black_katana/61",
+		"particle": "item/black_katana/1"
 	},
 	"elements": [
 		{
@@ -943,7 +943,6 @@
 			}
 		}
 	],
-	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [-45, -90, 0],
@@ -971,9 +970,9 @@
 			"scale": [0.66, 0.66, 1]
 		},
 		"head": {
-			"rotation": [0, 0, 147],
-			"translation": [4, 8, 7.75],
-			"scale": [0.8, 0.8, 1]
+			"rotation": [0, 0, -180],
+			"translation": [5, 13, 7.25],
+			"scale": [1.2, 1.2, 1]
 		},
 		"fixed": {
 			"rotation": [0, 0, 89],
