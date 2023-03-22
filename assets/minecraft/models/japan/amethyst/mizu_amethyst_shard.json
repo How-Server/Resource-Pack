@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/japan/amethyst/mizu_amethyst_shard"
+  }
+}
