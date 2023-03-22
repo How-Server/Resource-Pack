@@ -2,28 +2,28 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [4, 4],
 	"textures": {
-		"1": "item/sakura_katana/2",
-		"2": "item/sakura_katana/3",
-		"3": "item/sakura_katana/4",
-		"4": "item/sakura_katana/5",
-		"5": "item/sakura_katana/6",
-		"7": "item/sakura_katana/8",
-		"8": "item/sakura_katana/7",
-		"10": "item/sakura_katana/1",
-		"11": "item/sakura_katana/16",
-		"12": "item/sakura_katana/17",
-		"13": "item/sakura_katana/18",
-		"14": "item/sakura_katana/19",
-		"15": "item/sakura_katana/20",
-		"16": "item/sakura_katana/21",
-		"17": "item/sakura_katana/23",
-		"18": "item/sakura_katana/60",
-		"19": "item/sakura_katana/61",
-		"20": "item/sakura_katana/2-1",
-		"21": "item/sakura_katana/2-2",
-		"22": "item/sakura_katana/2-4",
-		"23": "item/sakura_katana/2-9",
-		"particle": "item/sakura_katana/1"
+		"1": "item/japan/katana/sakura_katana/2",
+		"2": "item/japan/katana/sakura_katana/3",
+		"3": "item/japan/katana/sakura_katana/4",
+		"4": "item/japan/katana/sakura_katana/5",
+		"5": "item/japan/katana/sakura_katana/6",
+		"7": "item/japan/katana/sakura_katana/8",
+		"8": "item/japan/katana/sakura_katana/7",
+		"10": "item/japan/katana/sakura_katana/1",
+		"11": "item/japan/katana/sakura_katana/16",
+		"12": "item/japan/katana/sakura_katana/17",
+		"13": "item/japan/katana/sakura_katana/18",
+		"14": "item/japan/katana/sakura_katana/19",
+		"15": "item/japan/katana/sakura_katana/20",
+		"16": "item/japan/katana/sakura_katana/21",
+		"17": "item/japan/katana/sakura_katana/23",
+		"18": "item/japan/katana/sakura_katana/60",
+		"19": "item/japan/katana/sakura_katana/61",
+		"20": "item/japan/katana/sakura_katana/2-1",
+		"21": "item/japan/katana/sakura_katana/2-2",
+		"22": "item/japan/katana/sakura_katana/2-4",
+		"23": "item/japan/katana/sakura_katana/2-9",
+		"particle": "item/japan/katana/sakura_katana/1"
 	},
 	"elements": [
 		{
@@ -966,9 +966,7 @@
 			"translation": [0, 1.75, 0]
 		},
 		"gui": {
-			"rotation": [0, 180, 90],
-			"translation": [-2.75, -2.5, 0],
-			"scale": [0.66, 0.66, 1]
+			"translation": [0, -0.75, 0]
 		},
 		"head": {
 			"rotation": [0, 0, 180],
@@ -976,9 +974,8 @@
 			"scale": [1.2, 1.2, 1]
 		},
 		"fixed": {
-			"rotation": [0, 0, 89],
-			"translation": [3, -3, 8],
-			"scale": [0.66, 0.66, 1]
+			"rotation": [0, 180, 0],
+			"translation": [1.5, -2.5, -7.5]
 		}
 	}
 }

@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "item/test"
+    "layer0": "item/axe/ice_axe"
   }
 }

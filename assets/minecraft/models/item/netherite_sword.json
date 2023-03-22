@@ -9,16 +9,25 @@
       "model": "custom/fish_netherite_sword"
     },{
       "predicate": { "custom_model_data": 1337002 },
-      "model": "custom/katana"
+      "model": "japan/katana/katana"
     },{
       "predicate": { "custom_model_data": 1337003 },
-      "model": "custom/sakura_katana"
+      "model": "japan/katana/sakura_katana"
     },{
       "predicate": { "custom_model_data": 1337004 },
-      "model": "custom/black_katana"
+      "model": "japan/katana/black_katana"
     },{
       "predicate": { "custom_model_data": 1337005 },
       "model": "custom/blaze_netherite_sword"
+    },{
+      "predicate": { "custom_model_data": 1337006 },
+      "model": "japan/katana/wakizashi"
+    },{
+      "predicate": { "custom_model_data": 1337007 },
+      "model": "japan/katana/black_wakizashi"
+    },{
+      "predicate": { "custom_model_data": 1337008 },
+      "model": "japan/katana/mizu_katana"
     }
   ]
 }

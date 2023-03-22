@@ -6,11 +6,11 @@
     "overrides": [
       {
         "predicate": { "custom_model_data": 1337001 },
-        "model": "omamori/blue"
+        "model": "japan/omamori/blue"
       },
       {
         "predicate": { "custom_model_data": 1337002 },
-        "model": "omamori/purple"
+        "model": "japan/omamori/purple"
       }
     ]
   }

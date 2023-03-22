@@ -1,12 +1,12 @@
 {
-  "parent": "item/generated",
+  "parent": "item/handheld",
   "textures": {
-    "layer0": "item/totem_of_undying"
+    "layer0": "item/stick"
   },
   "overrides": [
     {
       "predicate": { "custom_model_data": 1337001 },
-      "model": "japan/omamori/red"
+      "model": "custom/dog_stick"
     }
   ]
 }

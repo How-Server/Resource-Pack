@@ -1,0 +1,15 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/netherite_axe"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1337001 },
+      "model": "axe/netherite_axe"
+    },{
+      "predicate": { "custom_model_data": 1337002 },
+      "model": "axe/ice_axe"
+    }
+  ]
+}

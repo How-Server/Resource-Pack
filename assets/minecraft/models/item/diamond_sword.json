@@ -9,13 +9,7 @@
       "model": "custom/fish_diamond_sword"
     },{
       "predicate": { "custom_model_data": 1337002 },
-      "model": "custom/wakizashi"
-    },{
-      "predicate": { "custom_model_data": 1337003 },
-      "model": "custom/black_wakizashi"
-    },{
-      "predicate": { "custom_model_data": 1337004 },
-      "model": "custom/test"
+      "model": "japan/katana/test"
     }
   ]
 }

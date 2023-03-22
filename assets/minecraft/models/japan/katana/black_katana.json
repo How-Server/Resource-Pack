@@ -1,28 +1,28 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/katana/1",
-		"1": "item/katana/2",
-		"2": "item/katana/2-1",
-		"3": "item/katana/2-2",
-		"4": "item/katana/2-4",
-		"5": "item/katana/2-9",
-		"6": "item/katana/3",
-		"7": "item/katana/4",
-		"8": "item/katana/5",
-		"9": "item/katana/6",
-		"10": "item/katana/7",
-		"11": "item/katana/8",
-		"12": "item/katana/16",
-		"13": "item/katana/17",
-		"14": "item/katana/18",
-		"15": "item/katana/19",
-		"16": "item/katana/20",
-		"17": "item/katana/21",
-		"18": "item/katana/23",
-		"19": "item/katana/60",
-		"20": "item/katana/61",
-		"particle": "item/katana/1"
+		"0": "item/japan/katana/black_katana/1",
+		"1": "item/japan/katana/black_katana/2",
+		"2": "item/japan/katana/black_katana/2-1",
+		"3": "item/japan/katana/black_katana/2-2",
+		"4": "item/japan/katana/black_katana/2-4",
+		"5": "item/japan/katana/black_katana/2-9",
+		"6": "item/japan/katana/black_katana/3",
+		"7": "item/japan/katana/black_katana/4",
+		"8": "item/japan/katana/black_katana/5",
+		"9": "item/japan/katana/black_katana/6",
+		"10": "item/japan/katana/black_katana/7",
+		"11": "item/japan/katana/black_katana/8",
+		"12": "item/japan/katana/black_katana/16",
+		"13": "item/japan/katana/black_katana/17",
+		"14": "item/japan/katana/black_katana/18",
+		"15": "item/japan/katana/black_katana/19",
+		"16": "item/japan/katana/black_katana/20",
+		"17": "item/japan/katana/black_katana/21",
+		"18": "item/japan/katana/black_katana/23",
+		"19": "item/japan/katana/black_katana/60",
+		"20": "item/japan/katana/black_katana/61",
+		"particle": "item/japan/katana/black_katana/1"
 	},
 	"elements": [
 		{
@@ -943,7 +943,6 @@
 			}
 		}
 	],
-	"gui_light": "front",
 	"display": {
 		"thirdperson_righthand": {
 			"rotation": [-45, -90, 0],
@@ -966,19 +965,16 @@
 			"translation": [0, 1.75, 0]
 		},
 		"gui": {
-			"rotation": [0, 180, 90],
-			"translation": [-2.75, -2.5, 0],
-			"scale": [0.66, 0.66, 1]
+			"translation": [0, -0.75, 0]
 		},
 		"head": {
-			"rotation": [0, 0, 180],
+			"rotation": [0, 0, -180],
 			"translation": [5, 13, 7.25],
 			"scale": [1.2, 1.2, 1]
 		},
 		"fixed": {
-			"rotation": [0, 0, 89],
-			"translation": [3, -3, 8],
-			"scale": [0.66, 0.66, 1]
+			"rotation": [0, 180, 0],
+			"translation": [1.5, -2.5, -7.5]
 		}
 	}
 }

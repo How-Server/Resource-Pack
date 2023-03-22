@@ -1,6 +1,6 @@
 {
   "parent": "minecraft:item/handheld",
   "textures": {
-    "layer0": "item/black_wakizashi"
+    "layer0": "item/axe/netherite_axe"
   }
 }
