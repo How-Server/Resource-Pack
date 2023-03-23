@@ -1,0 +1,12 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/netherite_shovel"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1337001 },
+      "model": "tools/amethyst_tools/amethyst_shovel"
+    }
+  ]
+}

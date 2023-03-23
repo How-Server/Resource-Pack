@@ -10,6 +10,9 @@
     },{
       "predicate": { "custom_model_data": 1337002 },
       "model": "axe/ice_axe"
+    },{
+      "predicate": { "custom_model_data": 1337003 },
+      "model": "tools/amethyst_tools/amethyst_axe"
     }
   ]
 }

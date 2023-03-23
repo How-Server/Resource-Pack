@@ -30,7 +30,7 @@
       "model": "japan/katana/mizu_katana"
     },{
       "predicate": { "custom_model_data": 1337009 },
-      "model": "custom/amethyst_sword"
+      "model": "tools/amethyst_tools/amethyst_sword"
     }
   ]
 }

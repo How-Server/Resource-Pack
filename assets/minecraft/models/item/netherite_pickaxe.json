@@ -1,0 +1,15 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/netherite_pickaxe"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1337001 },
+      "model": "custom/netherite_netherite_pickaxe"
+    },{
+      "predicate": { "custom_model_data": 1337002 },
+      "model": "tools/amethyst_tools/amethyst_pickaxe"
+    }
+  ]
+}
