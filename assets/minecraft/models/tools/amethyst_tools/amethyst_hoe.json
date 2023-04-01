@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "item/tools/amethyst_tools/amethyst_hoe"
+  }
+}

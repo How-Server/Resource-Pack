@@ -31,6 +31,9 @@
     },{
       "predicate": { "custom_model_data": 1337009 },
       "model": "tools/amethyst_tools/amethyst_sword"
+    },{
+      "predicate": { "custom_model_data": 1337010 },
+      "model": "tools/emerald_tools/emerald_sword"
     }
   ]
 }

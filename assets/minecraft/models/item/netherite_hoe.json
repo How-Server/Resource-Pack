@@ -1,15 +1,15 @@
 {
   "parent": "item/handheld",
   "textures": {
-    "layer0": "item/netherite_shovel"
+    "layer0": "item/netherite_hoe"
   },
   "overrides": [
     {
       "predicate": { "custom_model_data": 1337001 },
-      "model": "tools/amethyst_tools/amethyst_shovel"
+      "model": "tools/amethyst_tools/amethyst_hoe"
     },{
       "predicate": { "custom_model_data": 1337002 },
-      "model": "tools/emerald_tools/emerald_shovel"
+      "model": "tools/emerald_tools/emerald_hoe"
     }
   ]
 }
