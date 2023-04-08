@@ -7,6 +7,9 @@
     {
       "predicate": { "custom_model_data": 1337001 },
       "model": "japan/katana/katana"
+    },{
+      "predicate": { "custom_model_data": 1337002 },
+      "model": "custom/cat_BBQ"
     }
   ]
 }
