@@ -2,10 +2,10 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [4, 4],
 	"textures": {
-		"0": "item/rrrr/cat_BBQ/ASD",
-		"1": "item/rrrr/cat_BBQ/texture",
-		"2": "item/rrrr/cat_BBQ/s",
-		"particle": "item/rrrr/cat_BBQ/ASD"
+		"0": "item/rrrr/cat_bbq/asd",
+		"1": "item/rrrr/cat_bbq/texture",
+		"2": "item/rrrr/cat_bbq/s",
+		"particle": "item/rrrr/cat_bbq/asd"
 	},
 	"elements": [
 		{
