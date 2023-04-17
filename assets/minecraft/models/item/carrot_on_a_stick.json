@@ -6,7 +6,7 @@
 	"overrides" :[
     {
       "predicate": { "custom_model_data": 1337001 },
-      "model": "custom/cat_bbq"
+      "model": "bbq/cat_bbq"
     }
   ]
 }

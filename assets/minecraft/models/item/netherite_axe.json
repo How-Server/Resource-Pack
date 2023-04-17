@@ -16,6 +16,8 @@
     },{
       "predicate": { "custom_model_data": 1337004 },
       "model": "tools/emerald_tools/emerald_axe"
-    }
+    },{
+      "predicate": { "custom_model_data": 1337005 },
+      "model": "bbq/pig_blood_gao"}
   ]
 }
