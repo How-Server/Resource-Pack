@@ -34,6 +34,15 @@
     },{
       "predicate": { "custom_model_data": 1337010 },
       "model": "tools/emerald_tools/emerald_sword"
+    },{
+      "predicate": { "custom_model_data": 1337011 },
+      "model": "tools/copper_tools/copper_sword"
+    },{
+      "predicate": { "custom_model_data": 1337012 },
+      "model": "tools/lapis_lazuli_tools/lapis_lazuli_sword"
+    },{
+      "predicate": { "custom_model_data": 1337013 },
+      "model": "tools/sculk_tools/sculk_sword"
     }
   ]
 }

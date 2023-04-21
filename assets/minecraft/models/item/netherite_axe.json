@@ -6,18 +6,21 @@
   "overrides": [
     {
       "predicate": { "custom_model_data": 1337001 },
-      "model": "axe/netherite_axe"
-    },{
-      "predicate": { "custom_model_data": 1337002 },
-      "model": "axe/ice_axe"
-    },{
-      "predicate": { "custom_model_data": 1337003 },
       "model": "tools/amethyst_tools/amethyst_axe"
     },{
-      "predicate": { "custom_model_data": 1337004 },
+      "predicate": { "custom_model_data": 1337002 },
       "model": "tools/emerald_tools/emerald_axe"
     },{
+      "predicate": { "custom_model_data": 1337003 },
+      "model": "tools/copper_tools/copper_axe"
+    },{
+      "predicate": { "custom_model_data": 1337004 },
+      "model": "tools/lapis_lazuli_tools/lapis_lazuli_axe"
+    },{
       "predicate": { "custom_model_data": 1337005 },
+      "model": "tools/sculk_tools/sculk_axe"
+    },{
+      "predicate": { "custom_model_data": 1337010 },
       "model": "bbq/pig_blood_gao"}
   ]
 }

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "item/tools/lapis_lazuli_tools/lapis_lazuli_sword"
+  }
+}
