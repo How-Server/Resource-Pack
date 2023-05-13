@@ -11,6 +11,14 @@
       {
         "predicate": { "custom_model_data": 1337002 },
         "model": "japan/omamori/purple"
+      },
+      {
+        "predicate": { "custom_model_data": 1337003 },
+        "model": "paper/token_insomnia"
+      },
+      {
+        "predicate": { "custom_model_data": 1337004 },
+        "model": "special_event/mothers_day_2023"
       }
     ]
   }
