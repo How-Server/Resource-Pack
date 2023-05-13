@@ -51,6 +51,10 @@
     {
       "predicate": { "custom_model_data": 1337034 },
       "model": "paper/token_gacha"
+    },
+    {
+      "predicate": { "custom_model_data": 1337035 },
+      "model": "paper/token_insomnia"
     }
   ]
 }
