@@ -14,7 +14,27 @@
       },
       {
         "predicate": { "custom_model_data": 1337003 },
-        "model": "special_event/mothers_day_2023"
+        "model": "special_event/mothers_day_2023/mothers_day_2023"
+      },
+      {
+        "predicate": { "custom_model_data": 1337004 },
+        "model": "special_event/dragon_boat_festival_2023/dragon_boat"
+      },
+      {
+        "predicate": { "custom_model_data": 1337005 },
+        "model": "special_event/dragon_boat_festival_2023/dragon_boat_copper"
+      },
+      {
+        "predicate": { "custom_model_data": 1337006 },
+        "model": "special_event/dragon_boat_festival_2023/dragon_boat_silver"
+      },
+      {
+        "predicate": { "custom_model_data": 1337007 },
+        "model": "special_event/dragon_boat_festival_2023/dragon_boat_gold"
+      },
+      {
+        "predicate": { "custom_model_data": 1337008 },
+        "model": "japan/helmet/samurai_helmet"
       }
     ]
   }
