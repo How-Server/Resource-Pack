@@ -1,0 +1,18 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/golden_apple"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1337001 },
+      "model": "special_event/dragon_boat_festival_2023/ricedumpling_honey"
+    },{
+      "predicate": { "custom_model_data": 1337002 },
+      "model": "special_event/dragon_boat_festival_2023/ricedumpling_meat"
+    },{
+      "predicate": { "custom_model_data": 1337003 },
+      "model": "special_event/dragon_boat_festival_2023/ricedumpling_redbeans"
+    }
+  ]
+}

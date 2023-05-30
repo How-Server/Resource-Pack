@@ -1,0 +1,15 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/golden_carrot"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1337001 },
+      "model": "special_event/dragon_boat_festival_2023/ricedumpling_salty"
+    },{
+      "predicate": { "custom_model_data": 1337002 },
+      "model": "special_event/dragon_boat_festival_2023/ricedumpling_sweet"
+    }
+  ]
+}
