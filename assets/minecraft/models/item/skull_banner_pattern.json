@@ -7,6 +7,24 @@
       {
         "predicate": { "custom_model_data": 1337001 },
         "model": "japan/omamori/black"
+      },{
+        "predicate": { "custom_model_data": 1337002 },
+        "model": "headgear/face_mask/aqua"
+      },{
+        "predicate": { "custom_model_data": 1337003 },
+        "model": "headgear/face_mask/green"
+      },{
+        "predicate": { "custom_model_data": 1337004 },
+        "model": "headgear/face_mask/orange"
+      },{
+        "predicate": { "custom_model_data": 1337005 },
+        "model": "headgear/face_mask/pink"
+      },{
+        "predicate": { "custom_model_data": 1337006 },
+        "model": "headgear/face_mask/black"
+      },{
+        "predicate": { "custom_model_data": 1337007 },
+        "model": "headgear/sunglasses"
       }
     ]
   }

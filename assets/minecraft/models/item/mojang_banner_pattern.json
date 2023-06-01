@@ -1,0 +1,45 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "item/stick"
+  },
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1337001 },
+      "model": "japan/kitsunemask/back"
+    },{
+      "predicate": { "custom_model_data": 1337002 },
+      "model": "japan/kitsunemask/front"
+    },{
+      "predicate": { "custom_model_data": 1337003 },
+      "model": "japan/kitsunemask/front_r"
+    },{
+      "predicate": { "custom_model_data": 1337004 },
+      "model": "japan/kitsunemask/front_l"
+    },{
+      "predicate": { "custom_model_data": 1337005 },
+      "model": "japan/kitsunemask/side_r"
+    },{
+      "predicate": { "custom_model_data": 1337006 },
+      "model": "japan/kitsunemask/side_l"
+    },{
+      "predicate": { "custom_model_data": 1337007 },
+      "model": "japan/kitsunemask/black_back"
+    },{
+      "predicate": { "custom_model_data": 1337008 },
+      "model": "japan/kitsunemask/black_front"
+    },{
+      "predicate": { "custom_model_data": 1337009 },
+      "model": "japan/kitsunemask/black_front_r"
+    },{
+      "predicate": { "custom_model_data": 1337010 },
+      "model": "japan/kitsunemask/black_front_l"
+    },{
+      "predicate": { "custom_model_data": 1337011 },
+      "model": "japan/kitsunemask/black_side_r"
+    },{
+      "predicate": { "custom_model_data": 1337012 },
+      "model": "japan/kitsunemask/black_side_l"
+    }
+  ]
+}
