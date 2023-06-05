@@ -55,6 +55,10 @@
     {
       "predicate": { "custom_model_data": 1337035 },
       "model": "paper/token_insomnia"
+    },
+    {
+      "predicate": { "custom_model_data": 1337036 },
+      "model": "paper/token_traveler"
     }
   ]
 }

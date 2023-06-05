@@ -1,7 +1,7 @@
 {
-  "parent": "item/handheld",
+  "parent": "item/generated",
   "textures": {
-    "layer0": "item/stick"
+    "layer0": "item/mojang_banner_pattern"
   },
   "overrides": [
     {
