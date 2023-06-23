@@ -25,6 +25,9 @@
       },{
         "predicate": { "custom_model_data": 1337007 },
         "model": "headgear/sunglasses"
+      },{
+	"predicate": { "custom_model_data": 1337008 },
+	"model": "vip/plate"
       }
     ]
   }

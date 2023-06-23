@@ -35,6 +35,18 @@
       {
         "predicate": { "custom_model_data": 1337008 },
         "model": "japan/helmet/samurai_helmet"
+      },
+      {
+        "predicate": { "custom_model_data": 1337009 },
+        "model": "ccr/small"
+      },
+      {
+        "predicate": { "custom_model_data": 1337010 },
+        "model": "ccr/medium"
+      },
+      {
+        "predicate": { "custom_model_data": 1337011 },
+        "model": "ccr/large"
       }
     ]
   }

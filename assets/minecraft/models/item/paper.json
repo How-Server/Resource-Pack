@@ -59,6 +59,10 @@
     {
       "predicate": { "custom_model_data": 1337036 },
       "model": "paper/token_traveler"
+    },
+    {
+      "predicate": { "custom_model_data": 1337037 },
+      "model": "ccr/renew"
     }
   ]
 }
