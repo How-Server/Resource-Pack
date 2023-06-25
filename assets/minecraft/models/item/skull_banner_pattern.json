@@ -28,6 +28,15 @@
       },{
 	"predicate": { "custom_model_data": 1337008 },
 	"model": "vip/plate"
+      },{
+	"predicate": { "custom_model_data": 1337009 },
+	"model": "vip/how_painting"
+      },{
+	"predicate": { "custom_model_data": 1337010 },
+	"model": "vip/babu_painting"
+      },{
+	"predicate": { "custom_model_data": 1337011 },
+	"model": "vip/how_statue"
       }
     ]
   }
