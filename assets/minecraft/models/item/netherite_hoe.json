@@ -19,6 +19,9 @@
     },{
       "predicate": { "custom_model_data": 1337005 },
       "model": "tools/sculk_tools/sculk_hoe"
+    },{
+      "predicate": { "custom_model_data": 1337006 },
+      "model": "wand/water"
     }
   ]
 }
