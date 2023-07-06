@@ -37,6 +37,12 @@
       },{
 	"predicate": { "custom_model_data": 1337011 },
 	"model": "vip/how_statue"
+      },{
+	"predicate": { "custom_model_data": 1337012 },
+	"model": "vip/how_cup"
+      },{
+	"predicate": { "custom_model_data": 1337013 },
+	"model": "vip/how_mug"
       }
     ]
   }

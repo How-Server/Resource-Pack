@@ -47,6 +47,30 @@
       {
         "predicate": { "custom_model_data": 1337011 },
         "model": "ccr/large"
+      },
+      {
+        "predicate": { "custom_model_data": 1337012 },
+        "model": "ccr/ccr_map"
+      },
+      {
+        "predicate": { "custom_model_data": 1337013 },
+        "model": "special_event/howie_birthday_2023/green_balloon"
+      },
+      {
+        "predicate": { "custom_model_data": 1337014 },
+        "model": "special_event/howie_birthday_2023/red_balloon"
+      },
+      {
+        "predicate": { "custom_model_data": 1337015 },
+        "model": "special_event/howie_birthday_2023/yellow_balloon"
+      },
+      {
+        "predicate": { "custom_model_data": 1337016 },
+        "model": "special_event/howie_birthday_2023/balloons"
+      },
+      {
+        "predicate": { "custom_model_data": 1337017 },
+        "model": "special_event/howie_birthday_2023/howie_balloon"
       }
     ]
   }

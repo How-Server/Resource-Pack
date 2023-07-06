@@ -43,6 +43,21 @@
     },{
       "predicate": { "custom_model_data": 1337013 },
       "model": "tools/sculk_tools/sculk_sword"
+    },{
+      "predicate": { "custom_model_data": 1337014 },
+      "model": "vip/how_keyboard"
+    },{
+      "predicate": { "custom_model_data": 1337015 },
+      "model": "keyboard/white"
+    },{
+      "predicate": { "custom_model_data": 1337016 },
+      "model": "keyboard/purple"
+    },{
+      "predicate": { "custom_model_data": 1337017 },
+      "model": "keyboard/gold"
+    },{
+      "predicate": { "custom_model_data": 1337018 },
+      "model": "vip/how_tie"
     }
   ]
 }
