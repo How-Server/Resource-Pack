@@ -43,6 +43,9 @@
       },{
 	"predicate": { "custom_model_data": 1337013 },
 	"model": "vip/how_mug"
+      },{
+	"predicate": { "custom_model_data": 1337014 },
+	"model": "vip/how_signature"
       }
     ]
   }

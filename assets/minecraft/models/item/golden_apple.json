@@ -13,6 +13,18 @@
     },{
       "predicate": { "custom_model_data": 1337003 },
       "model": "special_event/dragon_boat_festival_2023/ricedumpling_redbeans"
+    },{
+      "predicate": { "custom_model_data": 1337004 },
+      "model": "food/hotdog"
+    },{
+      "predicate": { "custom_model_data": 1337005 },
+      "model": "food/pizza_1"
+    },{
+      "predicate": { "custom_model_data": 1337006 },
+      "model": "food/pizza_2"
+    },{
+      "predicate": { "custom_model_data": 1337007 },
+      "model": "food/tofu_ramen"
     }
   ]
 }
