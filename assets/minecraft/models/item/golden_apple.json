@@ -25,6 +25,9 @@
     },{
       "predicate": { "custom_model_data": 1337007 },
       "model": "food/tofu_ramen"
+    },{
+      "predicate": { "custom_model_data": 1337008 },
+      "model": "food/good"
     }
   ]
 }
