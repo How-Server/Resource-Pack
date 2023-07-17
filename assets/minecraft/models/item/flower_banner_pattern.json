@@ -79,6 +79,10 @@
       {
         "predicate": { "custom_model_data": 1337019 },
         "model": "special_event/howie_birthday_2023/party_hat"
+      },
+      {
+        "predicate": { "custom_model_data": 1337020 },
+        "model": "special_event/howie_birthday_2023/cake"
       }
     ]
   }

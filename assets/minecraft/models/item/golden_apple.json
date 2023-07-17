@@ -28,6 +28,9 @@
     },{
       "predicate": { "custom_model_data": 1337008 },
       "model": "food/good"
+    },{
+      "predicate": { "custom_model_data": 1337009 },
+      "model": "food/takoyaki"
     }
   ]
 }
