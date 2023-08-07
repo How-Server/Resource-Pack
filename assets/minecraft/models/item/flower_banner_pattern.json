@@ -83,6 +83,42 @@
       {
         "predicate": { "custom_model_data": 1337020 },
         "model": "special_event/howie_birthday_2023/cake"
+      },
+      {
+        "predicate": { "custom_model_data": 1337021 },
+        "model": "special_event/chinese_valentines_2023/white_chocolate"
+      },
+      {
+        "predicate": { "custom_model_data": 1337022 },
+        "model": "special_event/chinese_valentines_2023/box_1"
+      },
+      {
+        "predicate": { "custom_model_data": 1337023 },
+        "model": "special_event/chinese_valentines_2023/brozen"
+      },
+      {
+        "predicate": { "custom_model_data": 1337024 },
+        "model": "special_event/chinese_valentines_2023/silver"
+      },
+      {
+        "predicate": { "custom_model_data": 1337025 },
+        "model": "special_event/chinese_valentines_2023/gold"
+      },      
+      {
+        "predicate": { "custom_model_data": 1337026 },
+        "model": "special_event/chinese_valentines_2023/bear_red"
+      },
+      {
+        "predicate": { "custom_model_data": 1337027 },
+        "model": "special_event/chinese_valentines_2023/bear_pink"
+      },
+      {
+        "predicate": { "custom_model_data": 1337028 },
+        "model": "special_event/chinese_valentines_2023/red_rose"
+      },
+      {
+        "predicate": { "custom_model_data": 1337029 },
+        "model": "special_event/chinese_valentines_2023/ring_box"
       }
     ]
   }
