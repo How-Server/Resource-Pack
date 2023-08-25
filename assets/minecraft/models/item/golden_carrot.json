@@ -10,6 +10,9 @@
     },{
       "predicate": { "custom_model_data": 1337002 },
       "model": "special_event/dragon_boat_festival_2023/ricedumpling_sweet"
+    },{
+      "predicate": { "custom_model_data": 1337003 },
+      "model": "food/melon_juice"
     }
   ]
 }

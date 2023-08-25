@@ -46,6 +46,9 @@
       },{
 	"predicate": { "custom_model_data": 1337014 },
 	"model": "vip/how_signature"
+      },{
+	"predicate": { "custom_model_data": 1337015 },
+	"model": "vip/how_wine"
       }
     ]
   }
