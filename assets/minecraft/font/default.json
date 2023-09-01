@@ -51,8 +51,8 @@
 		{
 			"type": "bitmap",
 			"file": "minecraft:how_banner/minecraft.png",
-			"height": 48,
-			"ascent": 48,
+			"height": 32,
+			"ascent": 32,
 			"chars": [
 				"📷"
 			]
