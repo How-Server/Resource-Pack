@@ -1,0 +1,61 @@
+{"providers":[
+		{
+			"type": "bitmap",
+			"file": "minecraft:how_rank/vip1000.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": ["🍽"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:how_rank/vip500.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": ["💰"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:how_rank/vipold.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": ["🌟"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:how_rank/vipoutdated.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": ["✨"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:how_rank/default.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": ["👤"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:how_rank/admin.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": ["⛏️"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:how_rank/ts.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": ["🔨"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:how_banner/minecraft_title.png",
+			"height": 48,
+			"ascent": 48,
+			"chars": [
+				"‏"
+			]
+		}
+]
+}
