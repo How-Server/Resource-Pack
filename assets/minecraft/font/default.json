@@ -39,7 +39,7 @@
 			"file": "minecraft:how_rank/admin.png",
 			"height": 7,
 			"ascent": 7,
-			"chars": ["⛏️"]
+			"chars": ["⛏"]
 		},
 		{
 			"type": "bitmap",
@@ -50,11 +50,29 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:how_banner/minecraft.png",
+			"file": "minecraft:how_banner/snapshot.png",
 			"height": 32,
 			"ascent": 32,
 			"chars": [
 				"📷"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:how_banner/moonbanner.png",
+			"height": 32,
+			"ascent": 32,
+			"chars": [
+				"🌛"
+			]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:how_banner/moonfestival.png",
+			"height": 32,
+			"ascent": 32,
+			"chars": [
+				"🌕"
 			]
 		}
 ]
