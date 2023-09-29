@@ -49,6 +49,9 @@
       },{
 	"predicate": { "custom_model_data": 1337015 },
 	"model": "vip/how_wine"
+      },{
+	"predicate": { "custom_model_data": 1337016 },
+	"model": "vip/how_bucket"
       }
     ]
   }
