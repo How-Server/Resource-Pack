@@ -119,6 +119,10 @@
       {
         "predicate": { "custom_model_data": 1337029 },
         "model": "special_event/chinese_valentines_2023/ring_box"
+      },
+      {
+        "predicate": { "custom_model_data": 1337030 },
+        "model": "special_event/christmas_2023/hat"
       }
     ]
   }
