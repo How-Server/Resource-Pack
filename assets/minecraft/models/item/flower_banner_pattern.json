@@ -123,6 +123,18 @@
       {
         "predicate": { "custom_model_data": 1337030 },
         "model": "special_event/christmas_2023/hat"
+      },
+      {
+        "predicate": { "custom_model_data": 1337031 },
+        "model": "special_event/christmas_2023/santa_hat"
+      },
+      {
+        "predicate": { "custom_model_data": 1337032 },
+        "model": "special_event/christmas_2023/reindeer"
+      },
+      {
+        "predicate": { "custom_model_data": 1337033 },
+        "model": "special_event/christmas_2023/72"
       }
     ]
   }
