@@ -1,12 +1,12 @@
 {
 	"credit": "Made with Blockbench",
 	"textures": {
-		"2": "item/special_event/chinese_new_year_2023/dragon",
-		"3": "item/special_event/chinese_new_year_2023/red",
-		"4": "item/special_event/chinese_new_year_2023/orange",
-		"5": "item/special_event/chinese_new_year_2023/dragon_eye",
-		"6": "item/special_event/chinese_new_year_2023/yellow",
-		"particle": "item/special_event/chinese_new_year_2023/dragon"
+		"2": "item/special_event/chinese_new_year_2024/dragon",
+		"3": "item/special_event/chinese_new_year_2024/red",
+		"4": "item/special_event/chinese_new_year_2024/orange",
+		"5": "item/special_event/chinese_new_year_2024/dragon_eye",
+		"6": "item/special_event/chinese_new_year_2024/yellow",
+		"particle": "item/special_event/chinese_new_year_2024/dragon"
 	},
 	"elements": [
 		{

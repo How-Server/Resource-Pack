@@ -147,6 +147,9 @@
       {
         "predicate": { "custom_model_data": 1337036 },
         "model": "special_event/christmas_2023/santa_hat_pink72"
+      },      {
+        "predicate": { "custom_model_data": 1337037 },
+        "model": "special_event/chinese_new_year_2024/dragon_head"
       }
     ]
   }
