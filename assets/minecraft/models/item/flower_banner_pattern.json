@@ -159,6 +159,10 @@
       {
         "predicate": { "custom_model_data": 1337039 },
         "model": "special_event/how_anniversary_2024/how_icon_1_20_2d"
+      },
+      {
+        "predicate": { "custom_model_data": 1337040 },
+        "model": "special_event/how_anniversary_2024/how_icon_1_20_big"
       }
     ]
   }
