@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "item/special_event/christmas_2023/72/72",
 		"1": "item/special_event/christmas_2023/72/texture",
-		"2": "block/minecart",
+		"2": "item/special_event/christmas_2023/72/minecart",
 		"particle": "item/special_event/christmas_2023/72/72"
 	},
 	"elements": [
