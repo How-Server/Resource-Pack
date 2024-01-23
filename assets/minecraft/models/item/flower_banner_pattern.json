@@ -163,6 +163,22 @@
       {
         "predicate": { "custom_model_data": 1337040 },
         "model": "special_event/how_anniversary_2024/how_icon_1_20_big"
+      },
+      {
+        "predicate": { "custom_model_data": 1337041 },
+        "model": "special_event/christmas_2023/pink72_minecart"
+      },
+      {
+        "predicate": { "custom_model_data": 1337042 },
+        "model": "special_event/christmas_2023/pink72_on_minecart"
+      },
+      {
+        "predicate": { "custom_model_data": 1337043 },
+        "model": "special_event/christmas_2023/72_minecart"
+      },
+      {
+        "predicate": { "custom_model_data": 1337044 },
+        "model": "special_event/christmas_2023/72_on_minecart"
       }
     ]
   }
