@@ -179,6 +179,50 @@
       {
         "predicate": { "custom_model_data": 1337044 },
         "model": "special_event/christmas_2023/72_on_minecart"
+      },
+      {
+        "predicate": { "custom_model_data": 1337045 },
+        "model": "special_event/christmas_2023/big72"
+      },
+      {
+        "predicate": { "custom_model_data": 1337046 },
+        "model": "special_event/christmas_2023/bigpink72"
+      },
+      {
+        "predicate": { "custom_model_data": 1337047 },
+        "model": "special_event/chinese_new_year_2024/couplets/1"
+      },
+      {
+        "predicate": { "custom_model_data": 1337048 },
+        "model": "special_event/chinese_new_year_2024/couplets/2"
+      },
+      {
+        "predicate": { "custom_model_data": 1337049 },
+        "model": "special_event/chinese_new_year_2024/couplets/3"
+      },
+      {
+        "predicate": { "custom_model_data": 1337050 },
+        "model": "special_event/chinese_new_year_2024/couplets/4"
+      },
+      {
+        "predicate": { "custom_model_data": 1337051 },
+        "model": "special_event/chinese_new_year_2024/couplets/5"
+      },
+      {
+        "predicate": { "custom_model_data": 1337052 },
+        "model": "special_event/chinese_new_year_2024/couplets/6"
+      },
+      {
+        "predicate": { "custom_model_data": 1337053 },
+        "model": "special_event/chinese_new_year_2024/couplets/7"
+      },
+      {
+        "predicate": { "custom_model_data": 1337054 },
+        "model": "special_event/chinese_new_year_2024/couplets/8"
+      },
+      {
+        "predicate": { "custom_model_data": 1337055 },
+        "model": "special_event/chinese_new_year_2024/couplets/long"
       }
     ]
   }

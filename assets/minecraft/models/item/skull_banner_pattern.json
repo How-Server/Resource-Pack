@@ -55,6 +55,12 @@
       },{
       "predicate": { "custom_model_data": 1337017 },
       "model": "vip/how_drum"
-      }
+      },{
+      "predicate": { "custom_model_data": 1337018 },
+      "model": "vip/how_shield/1"
+      },{
+      "predicate": { "custom_model_data": 1337019 },
+       "model": "vip/how_shield/2"
+       }
     ]
   }

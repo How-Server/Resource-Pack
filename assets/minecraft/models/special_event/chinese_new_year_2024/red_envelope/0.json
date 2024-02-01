@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "item/special_event/chinese_new_year_2024/red_envelope/0"
+  }
+}

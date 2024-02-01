@@ -2639,8 +2639,8 @@
 			"scale": [0.7, 0.7, 0.7]
 		},
 		"head": {
-			"translation": [0, 17.5, 5.5],
-			"scale": [3, 3, 3]
+			"translation": [0, 19.25, 5.5],
+			"scale": [3.3, 3.3, 3.3]
 		},
 		"fixed": {
 			"translation": [0, 8.75, -4.75],
