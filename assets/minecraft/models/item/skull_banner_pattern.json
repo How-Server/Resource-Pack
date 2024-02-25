@@ -60,7 +60,10 @@
       "model": "vip/how_shield/1"
       },{
       "predicate": { "custom_model_data": 1337019 },
-       "model": "vip/how_shield/2"
-       }
+      "model": "vip/how_shield/2"
+       },{
+      "predicate": { "custom_model_data": 1337020 },
+      "model": "vip/how_hat"
+      }
     ]
   }
