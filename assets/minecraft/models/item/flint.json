@@ -7,6 +7,9 @@
     {
       "predicate": { "custom_model_data": 1337001 },
       "model": "ccr/discard"
+    },{
+      "predicate": { "custom_model_data": 1337002 },
+      "model": "drink/empty"
     }
   ]
 }

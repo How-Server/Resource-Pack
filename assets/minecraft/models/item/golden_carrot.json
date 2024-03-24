@@ -13,6 +13,9 @@
     },{
       "predicate": { "custom_model_data": 1337003 },
       "model": "food/melon_juice"
+    },{
+      "predicate": { "custom_model_data": 1337004 },
+      "model": "drink/milktea"
     }
   ]
 }

@@ -31,6 +31,9 @@
     },{
       "predicate": { "custom_model_data": 1337009 },
       "model": "food/takoyaki"
+    },{
+      "predicate": { "custom_model_data": 1337010 },
+      "model": "drink/boba"
     }
   ]
 }
