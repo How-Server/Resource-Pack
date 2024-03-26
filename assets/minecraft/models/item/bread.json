@@ -7,6 +7,10 @@
     {
       "predicate": { "custom_model_data": 1337001 },
       "model": "custom/popiah"
+    },
+    {
+      "predicate": { "custom_model_data": 1337002 },
+      "model": "special_event/april_fools_2024/bread"
     }
   ]
 }

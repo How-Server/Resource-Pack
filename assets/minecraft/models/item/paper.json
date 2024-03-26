@@ -63,6 +63,10 @@
     {
       "predicate": { "custom_model_data": 1337037 },
       "model": "ccr/renew"
+    },
+    {
+      "predicate": { "custom_model_data": 1337038 },
+      "model": "special_event/april_fools_2024/token_how"
     }
   ]
 }

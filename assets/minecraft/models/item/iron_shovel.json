@@ -7,6 +7,14 @@
     {
       "predicate": { "custom_model_data": 1337002 },
       "model": "custom/how_iron_shovel"
+    },
+    {
+      "predicate": { "custom_model_data": 1337003 },
+      "model": "special_event/april_fools_2024/big_shovel"
+    },
+    {
+      "predicate": { "custom_model_data": 1337004 },
+      "model": "special_event/april_fools_2024/sml_shovel"
     }
   ]
 }
