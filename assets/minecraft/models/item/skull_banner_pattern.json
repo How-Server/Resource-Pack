@@ -67,6 +67,9 @@
       },{
       "predicate": { "custom_model_data": 1337021 },
       "model": "special_event/april_fools_2024/how_clown"
+      },{
+      "predicate": { "custom_model_data": 1337022 },
+      "model": "vip/how_card"
       }
     ]
   }

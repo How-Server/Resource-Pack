@@ -68,5 +68,9 @@
       "predicate": { "custom_model_data": 1337038 },
       "model": "special_event/april_fools_2024/token_how"
     }
+    ,{
+      "predicate": { "custom_model_data": 1337039 },
+      "model": "paper/token_how2"
+    }
   ]
 }
