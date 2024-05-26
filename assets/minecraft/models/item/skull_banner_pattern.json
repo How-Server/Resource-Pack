@@ -70,6 +70,9 @@
       },{
       "predicate": { "custom_model_data": 1337022 },
       "model": "vip/how_card"
+      },{
+      "predicate": { "custom_model_data": 1337023 },
+      "model": "vip/how_pillow"
       }
     ]
   }
