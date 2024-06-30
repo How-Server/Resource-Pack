@@ -42,19 +42,19 @@
       "model": "japan/kitsunemask/black_side_l"
     },{
       "predicate": { "custom_model_data": 1337013 },
-      "model": "vip/how_popcicle/stick"
+      "model": "vip/how_popsicle/stick"
     },{
       "predicate": { "custom_model_data": 1337014 },
-      "model": "vip/how_popcicle/1"
+      "model": "vip/how_popsicle/1"
     },{
       "predicate": { "custom_model_data": 1337015 },
-      "model": "vip/how_popcicle/2"
+      "model": "vip/how_popsicle/2"
     },{
       "predicate": { "custom_model_data": 1337016 },
-      "model": "vip/how_popcicle/3"
+      "model": "vip/how_popsicle/3"
     },{
       "predicate": { "custom_model_data": 1337017 },
-      "model": "vip/how_popcicle/4"
+      "model": "vip/how_popsicle/4"
     }
   ]
 }
