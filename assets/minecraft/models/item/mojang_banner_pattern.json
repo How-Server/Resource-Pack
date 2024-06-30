@@ -40,6 +40,21 @@
     },{
       "predicate": { "custom_model_data": 1337012 },
       "model": "japan/kitsunemask/black_side_l"
+    },{
+      "predicate": { "custom_model_data": 1337013 },
+      "model": "vip/how_popcicle/stick"
+    },{
+      "predicate": { "custom_model_data": 1337014 },
+      "model": "vip/how_popcicle/1"
+    },{
+      "predicate": { "custom_model_data": 1337015 },
+      "model": "vip/how_popcicle/2"
+    },{
+      "predicate": { "custom_model_data": 1337016 },
+      "model": "vip/how_popcicle/3"
+    },{
+      "predicate": { "custom_model_data": 1337017 },
+      "model": "vip/how_popcicle/4"
     }
   ]
 }
