@@ -30,7 +30,7 @@
 	"model": "vip/plate"
       },{
 	"predicate": { "custom_model_data": 1337009 },
-	"model": "vip/how_painting"
+	"model": "vip/how_painting/1"
       },{
 	"predicate": { "custom_model_data": 1337010 },
 	"model": "vip/babu_painting"
@@ -57,10 +57,10 @@
       "model": "vip/how_drum"
       },{
       "predicate": { "custom_model_data": 1337018 },
-      "model": "vip/how_shield/1"
+      "model": ""
       },{
       "predicate": { "custom_model_data": 1337019 },
-      "model": "vip/how_shield/2"
+      "model": ""
        },{
       "predicate": { "custom_model_data": 1337020 },
       "model": "vip/how_hat"
@@ -73,6 +73,9 @@
       },{
       "predicate": { "custom_model_data": 1337023 },
       "model": "vip/how_pillow"
+      },{
+      "predicate": { "custom_model_data": 1337024 },
+      "model": "vip/how_painting/2"
       }
     ]
   }

@@ -55,6 +55,18 @@
     },{
       "predicate": { "custom_model_data": 1337017 },
       "model": "vip/how_popsicle/4"
+    },{
+      "predicate": { "custom_model_data": 1337018 },
+      "model": "pen/pencil"
+    },{
+      "predicate": { "custom_model_data": 1337019 },
+      "model": "pen/fountain"
+    },{
+      "predicate": { "custom_model_data": 1337020 },
+      "model": "pen/brush"
+    },{
+      "predicate": { "custom_model_data": 1337021 },
+      "model": "pen/gold"
     }
   ]
 }

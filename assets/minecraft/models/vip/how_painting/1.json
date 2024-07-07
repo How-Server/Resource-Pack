@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "item/vip/how_painting",
-		"particle": "item/vip/how_painting"
+		"0": "item/vip/how_painting/1",
+		"particle": "item/vip/how_painting/1"
 	},
 	"elements": [
 		{

@@ -60,10 +60,7 @@
       "model": "vip/how_tie"
     },{
       "predicate": { "custom_model_data": 1337019 },
-      "model": "pen/pencil"
-    },{
-      "predicate": { "custom_model_data": 1337020 },
-      "model": "pen/fountain"
+      "model": "keyboard/pink"
     }
   ]
 }
