@@ -5,6 +5,19 @@
     },
     "overrides": [
       {
+        "predicate": { "custom_model_data": 1 },
+        "model": "vip/how_figures/babu"
+        },{
+        "predicate": { "custom_model_data": 2 },
+        "model": "vip/how_figures/baibai"
+        },{
+        "predicate": { "custom_model_data": 3 },
+        "model": "vip/how_figures/oooo"
+        },{
+        "predicate": { "custom_model_data": 4 },
+        "model": "vip/how_figures/cm"
+        },
+      {
         "predicate": { "custom_model_data": 1337001 },
         "model": "japan/omamori/black"
       },{
@@ -76,6 +89,9 @@
       },{
       "predicate": { "custom_model_data": 1337024 },
       "model": "vip/how_painting/2"
+      },{
+      "predicate": { "custom_model_data": 1337025 },
+      "model": "vip/how_figures/howie"
       }
     ]
   }
