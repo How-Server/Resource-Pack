@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [32, 32],
 	"textures": {
-		"1": "item/vip/admin_models/how_figure",
+		"1": "item/vip/admin_models/20000_figure",
 		"2": "item/vip/admin_models/babu",
 		"particle": "item/vip/admin_models/babu"
 	},
