@@ -92,6 +92,18 @@
       },{
       "predicate": { "custom_model_data": 1337025 },
       "model": "vip/how_figures/howie"
+      },{
+      "predicate": { "custom_model_data": 1337026 },
+      "model": "special_event/chinese_valentines_2024/heart"
+      },{
+      "predicate": { "custom_model_data": 1337027 },
+      "model": "special_event/chinese_valentines_2024/white"
+      },{
+      "predicate": { "custom_model_data": 1337028 },
+      "model": "special_event/chinese_valentines_2024/yellow"
+      },{
+      "predicate": { "custom_model_data": 1337029 },
+      "model": "special_event/chinese_valentines_2024/bouquet"
       }
     ]
   }
