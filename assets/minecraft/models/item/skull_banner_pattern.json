@@ -104,6 +104,9 @@
       },{
       "predicate": { "custom_model_data": 1337029 },
       "model": "special_event/chinese_valentines_2024/bouquet"
+      },{
+      "predicate": { "custom_model_data": 1337030 },
+      "model": "special_event/chinese_valentines_2024/box"
       }
     ]
   }
