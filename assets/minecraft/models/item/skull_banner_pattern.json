@@ -17,9 +17,9 @@
         "predicate": { "custom_model_data": 4 },
         "model": "vip/how_figures/cm"
         },{
-          "predicate": { "custom_model_data": 5 },
-          "model": "vip/how_figures/x"
-          },
+        "predicate": { "custom_model_data": 5 },
+        "model": "vip/how_figures/x"
+        },
       {
         "predicate": { "custom_model_data": 1337001 },
         "model": "japan/omamori/black"
