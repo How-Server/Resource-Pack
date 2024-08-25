@@ -1,6 +1,6 @@
 {
   "parent": "item/generated",
   "textures": {
-    "layer0": "item/color_paper/token_insomnia"
+    "layer0": "item/color_paper/gacha/2"
   }
 }

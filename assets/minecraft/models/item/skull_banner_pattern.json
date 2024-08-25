@@ -110,6 +110,25 @@
       },{
       "predicate": { "custom_model_data": 1337030 },
       "model": "special_event/chinese_valentines_2024/box"
+      },{
+      "predicate": { "custom_model_data": 1337031 },
+      "model": "vip/how_figures/mono"
+      },{
+      "predicate": { "custom_model_data": 1337032 },
+      "model": "vip/how_figures/rachael"
+      },{
+      "predicate": { "custom_model_data": 1337033 },
+      "model": "vip/how_figures/72"
+      },{
+      "predicate": { "custom_model_data": 1337034 },
+      "model": "vip/how_figures/yang"
+      },{
+      "predicate": { "custom_model_data": 1337035 },
+      "model": "vip/how_figures/tofu"
+      },{
+      "predicate": { "custom_model_data": 1337036 },
+      "model": "vip/how_figures/gold"
       }
+
     ]
   }

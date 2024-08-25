@@ -1,0 +1,44 @@
+{
+    "item.goat_horn.sound.your_mom_dead": {
+        "sounds": [
+            {
+                "name":"custom/your_mom_dead"
+            }
+        ]
+    },
+    "item.goat_horn.sound.french": {
+        "sounds": [
+            {
+                "name":"custom/frenchhorn"
+            }
+        ]
+    },
+    "item.goat_horn.sound.airhorn": {
+        "sounds": [
+            {
+                "name":"custom/airhorn"
+            }
+        ]
+    },
+    "item.goat_horn.sound.fun": {
+        "sounds": [
+            {
+                "name":"custom/funhorn"
+            }
+        ]
+    },
+    "item.goat_horn.sound.car": {
+        "sounds": [
+            {
+                "name":"custom/carhorn"
+            }
+        ]
+    },
+    "item.goat_horn.sound.mediv": {
+        "sounds": [
+            {
+                "name":"custom/castlehorn"
+            }
+        ]
+    }
+}

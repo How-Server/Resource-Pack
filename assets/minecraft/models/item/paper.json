@@ -38,27 +38,27 @@
     },
     {
       "predicate": { "custom_model_data": 1337031 },
-      "model": "paper/token_how"
+      "model": "paper/money/token_how"
     },
     {
       "predicate": { "custom_model_data": 1337032 },
-      "model": "paper/token_iekea"
+      "model": "paper/money/token_iekea"
     },
     {
       "predicate": { "custom_model_data": 1337033 },
-      "model": "paper/token_head"
+      "model": "paper/money/token_head"
     },
     {
       "predicate": { "custom_model_data": 1337034 },
-      "model": "paper/token_gacha"
+      "model": "paper/gacha/1"
     },
     {
       "predicate": { "custom_model_data": 1337035 },
-      "model": "paper/token_insomnia"
+      "model": "paper/bossfight/phantom"
     },
     {
       "predicate": { "custom_model_data": 1337036 },
-      "model": "paper/token_traveler"
+      "model": "paper/money/token_traveler"
     },
     {
       "predicate": { "custom_model_data": 1337037 },
@@ -70,7 +70,15 @@
     }
     ,{
       "predicate": { "custom_model_data": 1337039 },
-      "model": "paper/token_how2"
+      "model": "paper/money/token_how2"
+    }
+    ,{
+      "predicate": { "custom_model_data": 1337040 },
+      "model": "paper/gacha/2"
+    }
+    ,{
+      "predicate": { "custom_model_data": 1337041 },
+      "model": "paper/bossfight/goat"
     }
   ]
 }
