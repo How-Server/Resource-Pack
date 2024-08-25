@@ -1,11 +1,4 @@
 {
-    "item.goat_horn.sound.your_mom_dead": {
-        "sounds": [
-            {
-                "name":"custom/your_mom_dead"
-            }
-        ]
-    },
     "item.goat_horn.sound.french": {
         "sounds": [
             {
