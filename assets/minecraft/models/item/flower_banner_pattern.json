@@ -224,5 +224,15 @@
         "predicate": { "custom_model_data": 1337055 },
         "model": "special_event/chinese_new_year_2024/couplets/long"
       }
+      ,
+      {
+        "predicate": { "custom_model_data": 1337056 },
+        "model": "ccr/trash"
+      }
+      ,
+      {
+        "predicate": { "custom_model_data": 1337057 },
+        "model": "ccr/recycle"
+      }
     ]
   }
