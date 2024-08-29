@@ -694,17 +694,17 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [38, 0, 0],
-			"translation": [0, 3.75, 1.25],
-			"scale": [0.6, 0.6, 0.6]
+			"rotation": [67, 0, 53],
+			"translation": [-2.5, 5.5, 2.75]
 		},
 		"thirdperson_lefthand": {
 			"rotation": [67, 0, 0],
-			"translation": [-6, 4.5, 2.75]
+			"translation": [-5.5, 5.5, 2.75]
 		},
 		"firstperson_righthand": {
-			"translation": [0, 3.5, 0],
-			"scale": [0.8, 0.8, 0.8]
+			"rotation": [0, 0, 51],
+			"translation": [-4.25, 4.25, 0],
+			"scale": [1.3, 1.3, 1.3]
 		},
 		"firstperson_lefthand": {
 			"translation": [-9, 7.25, 0],

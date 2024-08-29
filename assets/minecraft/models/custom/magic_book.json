@@ -78,30 +78,30 @@
 		},
 		{
 			"name": "flip_left_rotation",
-			"from": [8.75, 1, 7.675],
+			"from": [8.75, 1, 7.475],
 			"to": [14.25, 9, 7.675],
-			"rotation": {"angle": 45, "axis": "y", "origin": [8.75, 0, 8.725]},
+			"rotation": {"angle": 45, "axis": "y", "origin": [8.75, 0, 8.525]},
 			"faces": {
 				"north": {"uv": [6, 5, 7.25, 9], "texture": "#0"},
 				"east": {"uv": [6, 5, 6, 9], "texture": "#0"},
 				"south": {"uv": [7.25, 5, 8.5, 9], "texture": "#0"},
 				"west": {"uv": [7.25, 5, 7.25, 9], "texture": "#0"},
-				"up": {"uv": [7.25, 5, 6, 5], "texture": "#0"},
-				"down": {"uv": [8.5, 5, 7.25, 5], "texture": "#0"}
+				"up": {"uv": [7.25, 5, 6, 5.5], "texture": "#0"},
+				"down": {"uv": [8.5, 5, 7.25, 5.5], "texture": "#0"}
 			}
 		},
 		{
 			"name": "flip_right_rotation",
-			"from": [2.425, 1, 7.95],
+			"from": [2.425, 1, 7.75],
 			"to": [7.925, 9, 7.95],
-			"rotation": {"angle": -45, "axis": "y", "origin": [7.925, 0, 8.05]},
+			"rotation": {"angle": -45, "axis": "y", "origin": [7.925, 0, 7.85]},
 			"faces": {
 				"north": {"uv": [6, 5, 7.25, 9], "texture": "#0"},
 				"east": {"uv": [6, 5, 6, 9], "texture": "#0"},
 				"south": {"uv": [7.25, 5, 8.5, 9], "texture": "#0"},
 				"west": {"uv": [7.25, 5, 7.25, 9], "texture": "#0"},
-				"up": {"uv": [7.25, 5, 6, 5], "texture": "#0"},
-				"down": {"uv": [8.5, 5, 7.25, 5], "texture": "#0"}
+				"up": {"uv": [7.25, 5, 6, 5.5], "texture": "#0"},
+				"down": {"uv": [8.5, 5, 7.25, 5.5], "texture": "#0"}
 			}
 		}
 	],
