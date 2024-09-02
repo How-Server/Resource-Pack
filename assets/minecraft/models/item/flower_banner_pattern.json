@@ -233,6 +233,42 @@
       {
         "predicate": { "custom_model_data": 1337057 },
         "model": "ccr/recycle"
+      },
+      {
+        "predicate": { "custom_model_data": 1337058 },
+        "model": "howshop_gacha/rabbit/bw"
+      },
+      {
+        "predicate": { "custom_model_data": 1337059 },
+        "model": "howshop_gacha/rabbit/white"
+      },
+      {
+        "predicate": { "custom_model_data": 1337060 },
+        "model": "howshop_gacha/rabbit/black"
+      },
+      {
+        "predicate": { "custom_model_data": 1337061 },
+        "model": "howshop_gacha/rabbit/brown"
+      },
+      {
+        "predicate": { "custom_model_data": 1337062 },
+        "model": "howshop_gacha/rabbit/magic"
+      },
+      {
+        "predicate": { "custom_model_data": 1337063 },
+        "model": "howshop_gacha/rabbit/carrot"
+      },
+      {
+        "predicate": { "custom_model_data": 1337064 },
+        "model": "special_event/moon_festival_2024/bbq_rabbit"
+      },
+      {
+        "predicate": { "custom_model_data": 1337065 },
+        "model": "special_event/moon_festival_2024/moon_rabbit"
+      },
+      {
+        "predicate": { "custom_model_data": 1337066 },
+        "model": "special_event/moon_festival_2024/medicine_rabbit"
       }
     ]
   }
