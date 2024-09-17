@@ -19,6 +19,12 @@
         },{
         "predicate": { "custom_model_data": 5 },
         "model": "vip/how_figures/x"
+        },{
+        "predicate": { "custom_model_data": 6 },
+        "model": "vip/how_figures/danny"
+        },{
+        "predicate": { "custom_model_data": 7 },
+        "model": "vip/how_figures/bsm"
         },
       {
         "predicate": { "custom_model_data": 1337001 },
