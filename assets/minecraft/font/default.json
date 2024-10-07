@@ -50,6 +50,20 @@
 		},
 		{
 			"type": "bitmap",
+			"file": "minecraft:how_rank/lobster.png",
+			"height": 8,
+			"ascent": 8,
+			"chars": ["🦞"]
+		},
+		{
+			"type": "bitmap",
+			"file": "minecraft:how_rank/nitro.png",
+			"height": 7,
+			"ascent": 7,
+			"chars": ["🔮"]
+		},
+		{
+			"type": "bitmap",
 			"file": "minecraft:how_banner/snapshot.png",
 			"height": 32,
 			"ascent": 32,
