@@ -269,6 +269,10 @@
       {
         "predicate": { "custom_model_data": 1337066 },
         "model": "special_event/moon_festival_2024/medicine_rabbit"
+      },
+      {
+        "predicate": { "custom_model_data": 1337067 },
+        "model": "vip/how_stick"
       }
     ]
   }

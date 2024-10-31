@@ -7,10 +7,6 @@
     {
       "predicate": { "custom_model_data": 1337001 },
       "model": "custom/dog_stick"
-    },    
-    {
-      "predicate": { "custom_model_data": 1337002 },
-      "model": "vip/how_stick"
     }
   ]
 }
