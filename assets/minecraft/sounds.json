@@ -40,5 +40,18 @@
                 "name":"custom/no"
             }
         ]
+    },
+    "item.goat_horn.sound.call": {
+        "sounds": [
+            {
+                "name":"custom/call"
+            }
+        ]
+    },
+    "item.goat_horn.sound.0": {
+        "replace": true,
+        "sounds": [
+          {"name": "item/goat_horn/call0", "stream": false}
+        ]
     }
 }
