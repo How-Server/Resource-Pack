@@ -302,7 +302,13 @@
       "predicate": {
         "custom_model_data": 1337043
       },
-      "model": "special_event/christmas_2024/snowman/bell_wand"
+      "model": "special_event/christmas_2024/bell_wand"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337044
+      },
+      "model": "special_event/christmas_2024/snowman/e_hat"
     }
   ]
 }
