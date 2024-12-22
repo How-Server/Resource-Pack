@@ -5,27 +5,42 @@
   },
   "overrides": [
     {
-      "predicate": { "custom_model_data": 1337001, "damage": 0.988 },
+      "predicate": {
+        "custom_model_data": 1337001,
+        "damage": 0.988
+      },
       "model": "custom/lucky_iron_pickaxe"
     },
     {
-      "predicate": { "custom_model_data": 1337001, "damage": 0.992 },
+      "predicate": {
+        "custom_model_data": 1337001,
+        "damage": 0.992
+      },
       "model": "custom/lucky_iron_pickaxe_1"
     },
     {
-      "predicate": { "custom_model_data": 1337001, "damage": 0.996 },
+      "predicate": {
+        "custom_model_data": 1337001,
+        "damage": 0.996
+      },
       "model": "custom/lucky_iron_pickaxe_2"
     },
     {
-      "predicate": { "custom_model_data": 1337002 },
+      "predicate": {
+        "custom_model_data": 1337002
+      },
       "model": "custom/how_iron_pickaxe"
     },
     {
-      "predicate": { "custom_model_data": 1337003 },
+      "predicate": {
+        "custom_model_data": 1337003
+      },
       "model": "special_event/april_fools_2024/big_pickaxe"
     },
     {
-      "predicate": { "custom_model_data": 1337004 },
+      "predicate": {
+        "custom_model_data": 1337004
+      },
       "model": "special_event/april_fools_2024/sml_pickaxe"
     }
   ]

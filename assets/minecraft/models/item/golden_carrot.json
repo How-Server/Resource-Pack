@@ -5,16 +5,27 @@
   },
   "overrides": [
     {
-      "predicate": { "custom_model_data": 1337001 },
+      "predicate": {
+        "custom_model_data": 1337001
+      },
       "model": "special_event/dragon_boat_festival_2023/ricedumpling_salty"
-    },{
-      "predicate": { "custom_model_data": 1337002 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337002
+      },
       "model": "special_event/dragon_boat_festival_2023/ricedumpling_sweet"
-    },{
-      "predicate": { "custom_model_data": 1337003 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337003
+      },
       "model": "food/melon_juice"
-    },{
-      "predicate": { "custom_model_data": 1337004 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337004
+      },
       "model": "drink/milktea"
     }
   ]

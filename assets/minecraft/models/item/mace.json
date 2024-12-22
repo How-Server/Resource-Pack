@@ -5,11 +5,15 @@
   },
   "overrides": [
     {
-      "predicate": { "custom_model_data": 1337001 },
+      "predicate": {
+        "custom_model_data": 1337001
+      },
       "model": "mace/hammer_front"
     },
     {
-      "predicate": { "custom_model_data": 1337002 },
+      "predicate": {
+        "custom_model_data": 1337002
+      },
       "model": "mace/hammer_back"
     }
   ]

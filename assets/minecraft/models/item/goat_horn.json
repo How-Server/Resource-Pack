@@ -5,7 +5,9 @@
   },
   "overrides": [
     {
-      "predicate": { "custom_model_data": 1337001 },
+      "predicate": {
+        "custom_model_data": 1337001
+      },
       "model": "custom/3d_war_horn"
     }
   ]

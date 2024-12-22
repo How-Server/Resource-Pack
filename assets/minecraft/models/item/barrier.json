@@ -5,37 +5,69 @@
   },
   "overrides": [
     {
-      "predicate": { "custom_model_data": 1337001 },
+      "predicate": {
+        "custom_model_data": 1337001
+      },
       "model": "mark_barrier/question_mark"
-    },{
-      "predicate": { "custom_model_data": 1337002 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337002
+      },
       "model": "mark_barrier/exclamation_mark"
-    },{
-      "predicate": { "custom_model_data": 1337003 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337003
+      },
       "model": "mark_barrier/plus_mark"
-    },{
-      "predicate": { "custom_model_data": 1337004 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337004
+      },
       "model": "mark_barrier/minus_mark"
-    },{
-      "predicate": { "custom_model_data": 1337005 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337005
+      },
       "model": "mark_barrier/multiplied_mark"
-    },{
-      "predicate": { "custom_model_data": 1337006 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337006
+      },
       "model": "mark_barrier/divided_mark"
-    },{
-      "predicate": { "custom_model_data": 1337007 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337007
+      },
       "model": "mark_barrier/equals_mark"
-    },{
-      "predicate": { "custom_model_data": 1337008 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337008
+      },
       "model": "mark_barrier/arrow_up"
-    },{
-      "predicate": { "custom_model_data": 1337009 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337009
+      },
       "model": "mark_barrier/arrow_down"
-    },{
-      "predicate": { "custom_model_data": 1337010 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337010
+      },
       "model": "mark_barrier/arrow_left"
-    },{
-      "predicate": { "custom_model_data": 1337011 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337011
+      },
       "model": "mark_barrier/arrow_right"
     }
   ]

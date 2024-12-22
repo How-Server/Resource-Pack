@@ -5,19 +5,27 @@
   },
   "overrides": [
     {
-      "predicate": { "custom_model_data": 1337001 },
+      "predicate": {
+        "custom_model_data": 1337001
+      },
       "model": "custom/butcher_iron_axe"
     },
     {
-      "predicate": { "custom_model_data": 1337002 },
+      "predicate": {
+        "custom_model_data": 1337002
+      },
       "model": "custom/how_iron_axe"
     },
     {
-      "predicate": { "custom_model_data": 1337003 },
+      "predicate": {
+        "custom_model_data": 1337003
+      },
       "model": "special_event/april_fools_2024/big_axe"
     },
     {
-      "predicate": { "custom_model_data": 1337004 },
+      "predicate": {
+        "custom_model_data": 1337004
+      },
       "model": "special_event/april_fools_2024/sml_axe"
     }
   ]

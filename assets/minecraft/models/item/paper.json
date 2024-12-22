@@ -5,79 +5,117 @@
   },
   "overrides": [
     {
-      "predicate": { "custom_model_data": 1337001 },
+      "predicate": {
+        "custom_model_data": 1337001
+      },
       "model": "paper/paper_red"
     },
     {
-      "predicate": { "custom_model_data": 1337002 },
+      "predicate": {
+        "custom_model_data": 1337002
+      },
       "model": "paper/paper_orange"
     },
     {
-      "predicate": { "custom_model_data": 1337003 },
+      "predicate": {
+        "custom_model_data": 1337003
+      },
       "model": "paper/paper_yellow"
     },
     {
-      "predicate": { "custom_model_data": 1337004 },
+      "predicate": {
+        "custom_model_data": 1337004
+      },
       "model": "paper/paper_green"
     },
     {
-      "predicate": { "custom_model_data": 1337005 },
+      "predicate": {
+        "custom_model_data": 1337005
+      },
       "model": "paper/paper_blue"
     },
     {
-      "predicate": { "custom_model_data": 1337006 },
+      "predicate": {
+        "custom_model_data": 1337006
+      },
       "model": "paper/paper_purple"
     },
     {
-      "predicate": { "custom_model_data": 1337007 },
+      "predicate": {
+        "custom_model_data": 1337007
+      },
       "model": "paper/paper_black"
     },
     {
-      "predicate": { "custom_model_data": 1337008 },
+      "predicate": {
+        "custom_model_data": 1337008
+      },
       "model": "paper/paper_rainbow"
     },
     {
-      "predicate": { "custom_model_data": 1337031 },
+      "predicate": {
+        "custom_model_data": 1337031
+      },
       "model": "paper/money/token_how"
     },
     {
-      "predicate": { "custom_model_data": 1337032 },
+      "predicate": {
+        "custom_model_data": 1337032
+      },
       "model": "paper/money/token_iekea"
     },
     {
-      "predicate": { "custom_model_data": 1337033 },
+      "predicate": {
+        "custom_model_data": 1337033
+      },
       "model": "paper/money/token_head"
     },
     {
-      "predicate": { "custom_model_data": 1337034 },
+      "predicate": {
+        "custom_model_data": 1337034
+      },
       "model": "paper/gacha/1"
     },
     {
-      "predicate": { "custom_model_data": 1337035 },
+      "predicate": {
+        "custom_model_data": 1337035
+      },
       "model": "paper/bossfight/phantom"
     },
     {
-      "predicate": { "custom_model_data": 1337036 },
+      "predicate": {
+        "custom_model_data": 1337036
+      },
       "model": "paper/money/token_traveler"
     },
     {
-      "predicate": { "custom_model_data": 1337037 },
+      "predicate": {
+        "custom_model_data": 1337037
+      },
       "model": "ccr/renew"
     },
     {
-      "predicate": { "custom_model_data": 1337038 },
+      "predicate": {
+        "custom_model_data": 1337038
+      },
       "model": "special_event/april_fools_2024/token_how"
-    }
-    ,{
-      "predicate": { "custom_model_data": 1337039 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337039
+      },
       "model": "paper/money/token_how2"
-    }
-    ,{
-      "predicate": { "custom_model_data": 1337040 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337040
+      },
       "model": "paper/gacha/2"
-    }
-    ,{
-      "predicate": { "custom_model_data": 1337041 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337041
+      },
       "model": "paper/bossfight/goat"
     }
   ]

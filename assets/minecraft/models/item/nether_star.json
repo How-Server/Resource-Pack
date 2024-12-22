@@ -5,11 +5,15 @@
   },
   "overrides": [
     {
-      "predicate": { "custom_model_data": 1337001 },
+      "predicate": {
+        "custom_model_data": 1337001
+      },
       "model": "custom/star_shatter"
     },
     {
-      "predicate": { "custom_model_data": 1337002 },
+      "predicate": {
+        "custom_model_data": 1337002
+      },
       "model": "custom/star_drop"
     }
   ]

@@ -5,19 +5,27 @@
   },
   "overrides": [
     {
-      "predicate": { "custom_model_data": 1337001 },
+      "predicate": {
+        "custom_model_data": 1337001
+      },
       "model": "japan/amethyst/white_amethyst_shard"
     },
     {
-      "predicate": { "custom_model_data": 1337002 },
+      "predicate": {
+        "custom_model_data": 1337002
+      },
       "model": "japan/amethyst/sakura_amethyst_shard"
     },
     {
-      "predicate": { "custom_model_data": 1337003 },
+      "predicate": {
+        "custom_model_data": 1337003
+      },
       "model": "japan/amethyst/black_amethyst_shard"
     },
     {
-      "predicate": { "custom_model_data": 1337004 },
+      "predicate": {
+        "custom_model_data": 1337004
+      },
       "model": "japan/amethyst/mizu_amethyst_shard"
     }
   ]

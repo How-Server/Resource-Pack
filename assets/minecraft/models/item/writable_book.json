@@ -5,7 +5,9 @@
   },
   "overrides": [
     {
-      "predicate": { "custom_model_data": 1337002 },
+      "predicate": {
+        "custom_model_data": 1337002
+      },
       "model": "special_event/chinese_valentines_2023/letter_2"
     }
   ]

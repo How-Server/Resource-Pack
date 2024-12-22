@@ -4,9 +4,11 @@
     "layer0": "entity/trident"
   },
   "overrides": {
-    {
-        "predicate": { "custom_model_data": 1337001 },
-        "model": "vip/how_stick"
-      }
-  }
+{
+  "predicate": {
+    "custom_model_data": 1337001
+  },
+  "model": "vip/how_stick"
+}
+}
 }

@@ -5,67 +5,129 @@
   },
   "overrides": [
     {
-      "predicate": { "custom_model_data": 1337001 },
+      "predicate": {
+        "custom_model_data": 1337001
+      },
       "model": "japan/kitsunemask/back"
-    },{
-      "predicate": { "custom_model_data": 1337002 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337002
+      },
       "model": "japan/kitsunemask/front"
-    },{
-      "predicate": { "custom_model_data": 1337003 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337003
+      },
       "model": "japan/kitsunemask/front_r"
-    },{
-      "predicate": { "custom_model_data": 1337004 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337004
+      },
       "model": "japan/kitsunemask/front_l"
-    },{
-      "predicate": { "custom_model_data": 1337005 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337005
+      },
       "model": "japan/kitsunemask/side_r"
-    },{
-      "predicate": { "custom_model_data": 1337006 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337006
+      },
       "model": "japan/kitsunemask/side_l"
-    },{
-      "predicate": { "custom_model_data": 1337007 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337007
+      },
       "model": "japan/kitsunemask/black_back"
-    },{
-      "predicate": { "custom_model_data": 1337008 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337008
+      },
       "model": "japan/kitsunemask/black_front"
-    },{
-      "predicate": { "custom_model_data": 1337009 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337009
+      },
       "model": "japan/kitsunemask/black_front_r"
-    },{
-      "predicate": { "custom_model_data": 1337010 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337010
+      },
       "model": "japan/kitsunemask/black_front_l"
-    },{
-      "predicate": { "custom_model_data": 1337011 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337011
+      },
       "model": "japan/kitsunemask/black_side_r"
-    },{
-      "predicate": { "custom_model_data": 1337012 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337012
+      },
       "model": "japan/kitsunemask/black_side_l"
-    },{
-      "predicate": { "custom_model_data": 1337013 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337013
+      },
       "model": "vip/how_popsicle/stick"
-    },{
-      "predicate": { "custom_model_data": 1337014 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337014
+      },
       "model": "vip/how_popsicle/1"
-    },{
-      "predicate": { "custom_model_data": 1337015 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337015
+      },
       "model": "vip/how_popsicle/2"
-    },{
-      "predicate": { "custom_model_data": 1337016 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337016
+      },
       "model": "vip/how_popsicle/3"
-    },{
-      "predicate": { "custom_model_data": 1337017 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337017
+      },
       "model": "vip/how_popsicle/4"
-    },{
-      "predicate": { "custom_model_data": 1337018 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337018
+      },
       "model": "pen/pencil"
-    },{
-      "predicate": { "custom_model_data": 1337019 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337019
+      },
       "model": "pen/fountain"
-    },{
-      "predicate": { "custom_model_data": 1337020 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337020
+      },
       "model": "pen/brush"
-    },{
-      "predicate": { "custom_model_data": 1337021 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337021
+      },
       "model": "pen/gold"
     }
   ]

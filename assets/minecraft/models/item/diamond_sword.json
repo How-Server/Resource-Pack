@@ -5,10 +5,15 @@
   },
   "overrides": [
     {
-      "predicate": { "custom_model_data": 1337001 },
+      "predicate": {
+        "custom_model_data": 1337001
+      },
       "model": "custom/fish_diamond_sword"
-    },{
-      "predicate": { "custom_model_data": 1337002 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337002
+      },
       "model": "japan/katana/test"
     }
   ]

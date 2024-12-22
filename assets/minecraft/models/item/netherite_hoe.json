@@ -5,22 +5,39 @@
   },
   "overrides": [
     {
-      "predicate": { "custom_model_data": 1337001 },
+      "predicate": {
+        "custom_model_data": 1337001
+      },
       "model": "tools/amethyst_tools/amethyst_hoe"
-    },{
-      "predicate": { "custom_model_data": 1337002 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337002
+      },
       "model": "tools/emerald_tools/emerald_hoe"
-    },{
-      "predicate": { "custom_model_data": 1337003 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337003
+      },
       "model": "tools/copper_tools/copper_hoe"
-    },{
-      "predicate": { "custom_model_data": 1337004 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337004
+      },
       "model": "tools/lapis_lazuli_tools/lapis_lazuli_hoe"
-    },{
-      "predicate": { "custom_model_data": 1337005 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337005
+      },
       "model": "tools/sculk_tools/sculk_hoe"
-    },{
-      "predicate": { "custom_model_data": 1337006 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337006
+      },
       "model": "wand/water"
     }
   ]

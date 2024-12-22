@@ -5,34 +5,63 @@
   },
   "overrides": [
     {
-      "predicate": { "custom_model_data": 1337001 },
+      "predicate": {
+        "custom_model_data": 1337001
+      },
       "model": "special_event/dragon_boat_festival_2023/ricedumpling_honey"
-    },{
-      "predicate": { "custom_model_data": 1337002 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337002
+      },
       "model": "special_event/dragon_boat_festival_2023/ricedumpling_meat"
-    },{
-      "predicate": { "custom_model_data": 1337003 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337003
+      },
       "model": "special_event/dragon_boat_festival_2023/ricedumpling_redbeans"
-    },{
-      "predicate": { "custom_model_data": 1337004 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337004
+      },
       "model": "food/hotdog"
-    },{
-      "predicate": { "custom_model_data": 1337005 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337005
+      },
       "model": "food/pizza_1"
-    },{
-      "predicate": { "custom_model_data": 1337006 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337006
+      },
       "model": "food/pizza_2"
-    },{
-      "predicate": { "custom_model_data": 1337007 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337007
+      },
       "model": "food/tofu_ramen"
-    },{
-      "predicate": { "custom_model_data": 1337008 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337008
+      },
       "model": "food/good"
-    },{
-      "predicate": { "custom_model_data": 1337009 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337009
+      },
       "model": "food/takoyaki"
-    },{
-      "predicate": { "custom_model_data": 1337010 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337010
+      },
       "model": "drink/boba"
     }
   ]

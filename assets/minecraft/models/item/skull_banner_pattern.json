@@ -1,161 +1,308 @@
 {
-    "parent": "item/generated",
-    "textures": {
-      "layer0": "item/skull_banner_pattern"
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "item/skull_banner_pattern"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "vip/how_figures/babu"
     },
-    "overrides": [
-      {
-        "predicate": { "custom_model_data": 1 },
-        "model": "vip/how_figures/babu"
-        },{
-        "predicate": { "custom_model_data": 2 },
-        "model": "vip/how_figures/baibai"
-        },{
-        "predicate": { "custom_model_data": 3 },
-        "model": "vip/how_figures/oooo"
-        },{
-        "predicate": { "custom_model_data": 4 },
-        "model": "vip/how_figures/cm"
-        },{
-        "predicate": { "custom_model_data": 5 },
-        "model": "vip/how_figures/x"
-        },{
-        "predicate": { "custom_model_data": 6 },
-        "model": "vip/how_figures/danny"
-        },{
-        "predicate": { "custom_model_data": 7 },
-        "model": "vip/how_figures/bsm"
-        },
-      {
-        "predicate": { "custom_model_data": 1337001 },
-        "model": "japan/omamori/black"
-      },{
-        "predicate": { "custom_model_data": 1337002 },
-        "model": "headgear/face_mask/aqua"
-      },{
-        "predicate": { "custom_model_data": 1337003 },
-        "model": "headgear/face_mask/green"
-      },{
-        "predicate": { "custom_model_data": 1337004 },
-        "model": "headgear/face_mask/orange"
-      },{
-        "predicate": { "custom_model_data": 1337005 },
-        "model": "headgear/face_mask/pink"
-      },{
-        "predicate": { "custom_model_data": 1337006 },
-        "model": "headgear/face_mask/black"
-      },{
-        "predicate": { "custom_model_data": 1337007 },
-        "model": "headgear/sunglasses"
-      },{
-	"predicate": { "custom_model_data": 1337008 },
-	"model": "vip/plate"
-      },{
-	"predicate": { "custom_model_data": 1337009 },
-	"model": "vip/how_painting/1"
-      },{
-	"predicate": { "custom_model_data": 1337010 },
-	"model": "vip/babu_painting"
-      },{
-	"predicate": { "custom_model_data": 1337011 },
-	"model": "vip/how_statue"
-      },{
-	"predicate": { "custom_model_data": 1337012 },
-	"model": "vip/how_cup"
-      },{
-	"predicate": { "custom_model_data": 1337013 },
-	"model": "vip/how_mug"
-      },{
-	"predicate": { "custom_model_data": 1337014 },
-	"model": "vip/how_signature"
-      },{
-	"predicate": { "custom_model_data": 1337015 },
-	"model": "vip/how_wine"
-      },{
-	"predicate": { "custom_model_data": 1337016 },
-	"model": "vip/how_bucket"
-      },{
-      "predicate": { "custom_model_data": 1337017 },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "vip/how_figures/baibai"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "vip/how_figures/oooo"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "vip/how_figures/cm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "vip/how_figures/x"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "vip/how_figures/danny"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "vip/how_figures/bsm"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337001
+      },
+      "model": "japan/omamori/black"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337002
+      },
+      "model": "headgear/face_mask/aqua"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337003
+      },
+      "model": "headgear/face_mask/green"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337004
+      },
+      "model": "headgear/face_mask/orange"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337005
+      },
+      "model": "headgear/face_mask/pink"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337006
+      },
+      "model": "headgear/face_mask/black"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337007
+      },
+      "model": "headgear/sunglasses"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337008
+      },
+      "model": "vip/plate"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337009
+      },
+      "model": "vip/how_painting/1"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337010
+      },
+      "model": "vip/babu_painting"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337011
+      },
+      "model": "vip/how_statue"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337012
+      },
+      "model": "vip/how_cup"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337013
+      },
+      "model": "vip/how_mug"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337014
+      },
+      "model": "vip/how_signature"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337015
+      },
+      "model": "vip/how_wine"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337016
+      },
+      "model": "vip/how_bucket"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337017
+      },
       "model": "vip/how_drum"
-      },{
-      "predicate": { "custom_model_data": 1337018 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337018
+      },
       "model": ""
-      },{
-      "predicate": { "custom_model_data": 1337019 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337019
+      },
       "model": ""
-       },{
-      "predicate": { "custom_model_data": 1337020 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337020
+      },
       "model": "vip/how_hat"
-      },{
-      "predicate": { "custom_model_data": 1337021 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337021
+      },
       "model": "special_event/april_fools_2024/how_clown"
-      },{
-      "predicate": { "custom_model_data": 1337022 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337022
+      },
       "model": "vip/how_card"
-      },{
-      "predicate": { "custom_model_data": 1337023 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337023
+      },
       "model": "vip/how_pillow"
-      },{
-      "predicate": { "custom_model_data": 1337024 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337024
+      },
       "model": "vip/how_painting/2"
-      },{
-      "predicate": { "custom_model_data": 1337025 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337025
+      },
       "model": "vip/how_figures/howie"
-      },{
-      "predicate": { "custom_model_data": 1337026 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337026
+      },
       "model": "special_event/chinese_valentines_2024/heart"
-      },{
-      "predicate": { "custom_model_data": 1337027 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337027
+      },
       "model": "special_event/chinese_valentines_2024/white"
-      },{
-      "predicate": { "custom_model_data": 1337028 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337028
+      },
       "model": "special_event/chinese_valentines_2024/yellow"
-      },{
-      "predicate": { "custom_model_data": 1337029 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337029
+      },
       "model": "special_event/chinese_valentines_2024/bouquet"
-      },{
-      "predicate": { "custom_model_data": 1337030 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337030
+      },
       "model": "special_event/chinese_valentines_2024/box"
-      },{
-      "predicate": { "custom_model_data": 1337031 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337031
+      },
       "model": "vip/how_figures/mono"
-      },{
-      "predicate": { "custom_model_data": 1337032 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337032
+      },
       "model": "vip/how_figures/rachael"
-      },{
-      "predicate": { "custom_model_data": 1337033 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337033
+      },
       "model": "vip/how_figures/72"
-      },{
-      "predicate": { "custom_model_data": 1337034 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337034
+      },
       "model": "vip/how_figures/yang"
-      },{
-      "predicate": { "custom_model_data": 1337035 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337035
+      },
       "model": "vip/how_figures/tofu"
-      },{
-      "predicate": { "custom_model_data": 1337036 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337036
+      },
       "model": "vip/how_figures/gold"
-      },{
-      "predicate": { "custom_model_data": 1337037 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337037
+      },
       "model": "special_event/christmas_2024/hat"
-      },{
-      "predicate": { "custom_model_data": 1337038 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337038
+      },
       "model": "special_event/christmas_2024/tree_hat"
-      },{
-      "predicate": { "custom_model_data": 1337039 },
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337039
+      },
       "model": "special_event/christmas_2024/snowman/default"
-      },{
-        "predicate": { "custom_model_data": 1337040 },
-        "model": "special_event/christmas_2024/snowman/gold"
-      },{
-        "predicate": { "custom_model_data": 1337041 },
-        "model": "special_event/christmas_2024/snowman/silver"
-      },{
-        "predicate": { "custom_model_data": 1337042 },
-        "model": "special_event/christmas_2024/snowman/copper"
-      },{
-        "predicate": { "custom_model_data": 1337043 },
-        "model": "special_event/christmas_2024/snowman/bell_wand"
-      }
-
-    ]
-  }
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337040
+      },
+      "model": "special_event/christmas_2024/snowman/gold"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337041
+      },
+      "model": "special_event/christmas_2024/snowman/silver"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337042
+      },
+      "model": "special_event/christmas_2024/snowman/copper"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 1337043
+      },
+      "model": "special_event/christmas_2024/snowman/bell_wand"
+    }
+  ]
+}
