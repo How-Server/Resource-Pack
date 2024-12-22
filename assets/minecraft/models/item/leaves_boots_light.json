@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/special_event/christmas_2024/leaves_armor_light/feet"
+  }
+}

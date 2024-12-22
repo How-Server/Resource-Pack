@@ -134,6 +134,27 @@
       },{
       "predicate": { "custom_model_data": 1337036 },
       "model": "vip/how_figures/gold"
+      },{
+      "predicate": { "custom_model_data": 1337037 },
+      "model": "special_event/christmas_2024/hat"
+      },{
+      "predicate": { "custom_model_data": 1337038 },
+      "model": "special_event/christmas_2024/tree_hat"
+      },{
+      "predicate": { "custom_model_data": 1337039 },
+      "model": "special_event/christmas_2024/snowman/default"
+      },{
+        "predicate": { "custom_model_data": 1337040 },
+        "model": "special_event/christmas_2024/snowman/gold"
+      },{
+        "predicate": { "custom_model_data": 1337041 },
+        "model": "special_event/christmas_2024/snowman/silver"
+      },{
+        "predicate": { "custom_model_data": 1337042 },
+        "model": "special_event/christmas_2024/snowman/copper"
+      },{
+        "predicate": { "custom_model_data": 1337043 },
+        "model": "special_event/christmas_2024/snowman/bell_wand"
       }
 
     ]
