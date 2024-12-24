@@ -1,0 +1,54 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/bundle"
+        },
+        "entries": [
+            {
+                "threshold": 1337001,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2024/red_envelope/0"
+                }
+            },
+            {
+                "threshold": 1337001,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2024/red_envelope/1"
+                }
+            },
+            {
+                "threshold": 1337002,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_case/3"
+                }
+            },
+            {
+                "threshold": 1337002,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_case/1"
+                }
+            },
+            {
+                "threshold": 1337003,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_valentines_2024/choco/1"
+                }
+            },
+            {
+                "threshold": 1337003,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_valentines_2024/choco/2"
+                }
+            }
+        ]
+    }
+}

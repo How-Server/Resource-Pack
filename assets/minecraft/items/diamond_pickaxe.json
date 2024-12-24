@@ -1,0 +1,19 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/diamond_pickaxe"
+        },
+        "entries": [
+            {
+                "threshold": 1337001,
+                "model": {
+                    "type": "model",
+                    "model": "custom/diamond_diamond_diamond_pickaxe"
+                }
+            }
+        ]
+    }
+}

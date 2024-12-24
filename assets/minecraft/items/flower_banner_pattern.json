@@ -1,0 +1,481 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/flower_banner_pattern"
+        },
+        "entries": [
+            {
+                "threshold": 1337001,
+                "model": {
+                    "type": "model",
+                    "model": "japan/omamori/blue"
+                }
+            },
+            {
+                "threshold": 1337002,
+                "model": {
+                    "type": "model",
+                    "model": "japan/omamori/purple"
+                }
+            },
+            {
+                "threshold": 1337003,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/mothers_day_2023/mothers_day_2023"
+                }
+            },
+            {
+                "threshold": 1337004,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/dragon_boat_festival_2023/dragon_boat"
+                }
+            },
+            {
+                "threshold": 1337005,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/dragon_boat_festival_2023/dragon_boat_copper"
+                }
+            },
+            {
+                "threshold": 1337006,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/dragon_boat_festival_2023/dragon_boat_silver"
+                }
+            },
+            {
+                "threshold": 1337007,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/dragon_boat_festival_2023/dragon_boat_gold"
+                }
+            },
+            {
+                "threshold": 1337008,
+                "model": {
+                    "type": "model",
+                    "model": "japan/helmet/samurai_helmet"
+                }
+            },
+            {
+                "threshold": 1337009,
+                "model": {
+                    "type": "model",
+                    "model": "ccr/small"
+                }
+            },
+            {
+                "threshold": 1337010,
+                "model": {
+                    "type": "model",
+                    "model": "ccr/medium"
+                }
+            },
+            {
+                "threshold": 1337011,
+                "model": {
+                    "type": "model",
+                    "model": "ccr/large"
+                }
+            },
+            {
+                "threshold": 1337012,
+                "model": {
+                    "type": "model",
+                    "model": "ccr/ccr_map"
+                }
+            },
+            {
+                "threshold": 1337013,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/howie_birthday_2023/green_balloon"
+                }
+            },
+            {
+                "threshold": 1337014,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/howie_birthday_2023/red_balloon"
+                }
+            },
+            {
+                "threshold": 1337015,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/howie_birthday_2023/yellow_balloon"
+                }
+            },
+            {
+                "threshold": 1337016,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/howie_birthday_2023/balloons"
+                }
+            },
+            {
+                "threshold": 1337017,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/howie_birthday_2023/howie_balloon"
+                }
+            },
+            {
+                "threshold": 1337018,
+                "model": {
+                    "type": "model",
+                    "model": "ccr/sold_tag"
+                }
+            },
+            {
+                "threshold": 1337019,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/howie_birthday_2023/party_hat"
+                }
+            },
+            {
+                "threshold": 1337020,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/howie_birthday_2023/cake"
+                }
+            },
+            {
+                "threshold": 1337021,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_valentines_2023/white_chocolate"
+                }
+            },
+            {
+                "threshold": 1337022,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_valentines_2023/box_1"
+                }
+            },
+            {
+                "threshold": 1337023,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_valentines_2023/brozen"
+                }
+            },
+            {
+                "threshold": 1337024,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_valentines_2023/silver"
+                }
+            },
+            {
+                "threshold": 1337025,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_valentines_2023/gold"
+                }
+            },
+            {
+                "threshold": 1337026,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_valentines_2023/bear_red"
+                }
+            },
+            {
+                "threshold": 1337027,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_valentines_2023/bear_pink"
+                }
+            },
+            {
+                "threshold": 1337028,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_valentines_2023/red_rose"
+                }
+            },
+            {
+                "threshold": 1337029,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_valentines_2023/ring_box"
+                }
+            },
+            {
+                "threshold": 1337030,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/christmas_2023/hat"
+                }
+            },
+            {
+                "threshold": 1337031,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/christmas_2023/santa_hat"
+                }
+            },
+            {
+                "threshold": 1337032,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/christmas_2023/reindeer"
+                }
+            },
+            {
+                "threshold": 1337033,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/christmas_2023/72"
+                }
+            },
+            {
+                "threshold": 1337034,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/christmas_2023/santa_hat_72"
+                }
+            },
+            {
+                "threshold": 1337035,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/christmas_2023/pink72"
+                }
+            },
+            {
+                "threshold": 1337036,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/christmas_2023/santa_hat_pink72"
+                }
+            },
+            {
+                "threshold": 1337037,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2024/dragon_head"
+                }
+            },
+            {
+                "threshold": 1337038,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/how_anniversary_2024/how_icon_1_20"
+                }
+            },
+            {
+                "threshold": 1337039,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/how_anniversary_2024/how_icon_1_20_2d"
+                }
+            },
+            {
+                "threshold": 1337040,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/how_anniversary_2024/how_icon_1_20_big"
+                }
+            },
+            {
+                "threshold": 1337041,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/christmas_2023/pink72_minecart"
+                }
+            },
+            {
+                "threshold": 1337042,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/christmas_2023/pink72_on_minecart"
+                }
+            },
+            {
+                "threshold": 1337043,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/christmas_2023/72_minecart"
+                }
+            },
+            {
+                "threshold": 1337044,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/christmas_2023/72_on_minecart"
+                }
+            },
+            {
+                "threshold": 1337045,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/christmas_2023/big72"
+                }
+            },
+            {
+                "threshold": 1337046,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/christmas_2023/bigpink72"
+                }
+            },
+            {
+                "threshold": 1337047,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2024/couplets/1"
+                }
+            },
+            {
+                "threshold": 1337048,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2024/couplets/2"
+                }
+            },
+            {
+                "threshold": 1337049,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2024/couplets/3"
+                }
+            },
+            {
+                "threshold": 1337050,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2024/couplets/4"
+                }
+            },
+            {
+                "threshold": 1337051,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2024/couplets/5"
+                }
+            },
+            {
+                "threshold": 1337052,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2024/couplets/6"
+                }
+            },
+            {
+                "threshold": 1337053,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2024/couplets/7"
+                }
+            },
+            {
+                "threshold": 1337054,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2024/couplets/8"
+                }
+            },
+            {
+                "threshold": 1337055,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2024/couplets/long"
+                }
+            },
+            {
+                "threshold": 1337056,
+                "model": {
+                    "type": "model",
+                    "model": "ccr/trash"
+                }
+            },
+            {
+                "threshold": 1337057,
+                "model": {
+                    "type": "model",
+                    "model": "ccr/recycle"
+                }
+            },
+            {
+                "threshold": 1337058,
+                "model": {
+                    "type": "model",
+                    "model": "howshop_gacha/rabbit/bw"
+                }
+            },
+            {
+                "threshold": 1337059,
+                "model": {
+                    "type": "model",
+                    "model": "howshop_gacha/rabbit/white"
+                }
+            },
+            {
+                "threshold": 1337060,
+                "model": {
+                    "type": "model",
+                    "model": "howshop_gacha/rabbit/black"
+                }
+            },
+            {
+                "threshold": 1337061,
+                "model": {
+                    "type": "model",
+                    "model": "howshop_gacha/rabbit/brown"
+                }
+            },
+            {
+                "threshold": 1337062,
+                "model": {
+                    "type": "model",
+                    "model": "howshop_gacha/rabbit/magic"
+                }
+            },
+            {
+                "threshold": 1337063,
+                "model": {
+                    "type": "model",
+                    "model": "howshop_gacha/rabbit/carrot"
+                }
+            },
+            {
+                "threshold": 1337064,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/moon_festival_2024/bbq_rabbit"
+                }
+            },
+            {
+                "threshold": 1337065,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/moon_festival_2024/moon_rabbit"
+                }
+            },
+            {
+                "threshold": 1337066,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/moon_festival_2024/medicine_rabbit"
+                }
+            },
+            {
+                "threshold": 1337067,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_stick"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,40 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/amethyst_shard"
+        },
+        "entries": [
+            {
+                "threshold": 1337001,
+                "model": {
+                    "type": "model",
+                    "model": "japan/amethyst/white_amethyst_shard"
+                }
+            },
+            {
+                "threshold": 1337002,
+                "model": {
+                    "type": "model",
+                    "model": "japan/amethyst/sakura_amethyst_shard"
+                }
+            },
+            {
+                "threshold": 1337003,
+                "model": {
+                    "type": "model",
+                    "model": "japan/amethyst/black_amethyst_shard"
+                }
+            },
+            {
+                "threshold": 1337004,
+                "model": {
+                    "type": "model",
+                    "model": "japan/amethyst/mizu_amethyst_shard"
+                }
+            }
+        ]
+    }
+}

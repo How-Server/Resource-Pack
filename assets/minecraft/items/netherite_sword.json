@@ -1,0 +1,145 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/netherite_sword"
+        },
+        "entries": [
+            {
+                "threshold": 1337001,
+                "model": {
+                    "type": "model",
+                    "model": "custom/fish_netherite_sword"
+                }
+            },
+            {
+                "threshold": 1337002,
+                "model": {
+                    "type": "model",
+                    "model": "japan/katana/katana"
+                }
+            },
+            {
+                "threshold": 1337003,
+                "model": {
+                    "type": "model",
+                    "model": "japan/katana/sakura_katana"
+                }
+            },
+            {
+                "threshold": 1337004,
+                "model": {
+                    "type": "model",
+                    "model": "japan/katana/black_katana"
+                }
+            },
+            {
+                "threshold": 1337005,
+                "model": {
+                    "type": "model",
+                    "model": "custom/blaze_netherite_sword"
+                }
+            },
+            {
+                "threshold": 1337006,
+                "model": {
+                    "type": "model",
+                    "model": "japan/katana/wakizashi"
+                }
+            },
+            {
+                "threshold": 1337007,
+                "model": {
+                    "type": "model",
+                    "model": "japan/katana/black_wakizashi"
+                }
+            },
+            {
+                "threshold": 1337008,
+                "model": {
+                    "type": "model",
+                    "model": "japan/katana/mizu_katana"
+                }
+            },
+            {
+                "threshold": 1337009,
+                "model": {
+                    "type": "model",
+                    "model": "tools/amethyst_tools/amethyst_sword"
+                }
+            },
+            {
+                "threshold": 1337010,
+                "model": {
+                    "type": "model",
+                    "model": "tools/emerald_tools/emerald_sword"
+                }
+            },
+            {
+                "threshold": 1337011,
+                "model": {
+                    "type": "model",
+                    "model": "tools/copper_tools/copper_sword"
+                }
+            },
+            {
+                "threshold": 1337012,
+                "model": {
+                    "type": "model",
+                    "model": "tools/lapis_lazuli_tools/lapis_lazuli_sword"
+                }
+            },
+            {
+                "threshold": 1337013,
+                "model": {
+                    "type": "model",
+                    "model": "tools/sculk_tools/sculk_sword"
+                }
+            },
+            {
+                "threshold": 1337014,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_keyboard"
+                }
+            },
+            {
+                "threshold": 1337015,
+                "model": {
+                    "type": "model",
+                    "model": "keyboard/white"
+                }
+            },
+            {
+                "threshold": 1337016,
+                "model": {
+                    "type": "model",
+                    "model": "keyboard/purple"
+                }
+            },
+            {
+                "threshold": 1337017,
+                "model": {
+                    "type": "model",
+                    "model": "keyboard/gold"
+                }
+            },
+            {
+                "threshold": 1337018,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_tie"
+                }
+            },
+            {
+                "threshold": 1337019,
+                "model": {
+                    "type": "model",
+                    "model": "keyboard/pink"
+                }
+            }
+        ]
+    }
+}

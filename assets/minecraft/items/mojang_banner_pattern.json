@@ -1,0 +1,159 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/mojang_banner_pattern"
+        },
+        "entries": [
+            {
+                "threshold": 1337001,
+                "model": {
+                    "type": "model",
+                    "model": "japan/kitsunemask/back"
+                }
+            },
+            {
+                "threshold": 1337002,
+                "model": {
+                    "type": "model",
+                    "model": "japan/kitsunemask/front"
+                }
+            },
+            {
+                "threshold": 1337003,
+                "model": {
+                    "type": "model",
+                    "model": "japan/kitsunemask/front_r"
+                }
+            },
+            {
+                "threshold": 1337004,
+                "model": {
+                    "type": "model",
+                    "model": "japan/kitsunemask/front_l"
+                }
+            },
+            {
+                "threshold": 1337005,
+                "model": {
+                    "type": "model",
+                    "model": "japan/kitsunemask/side_r"
+                }
+            },
+            {
+                "threshold": 1337006,
+                "model": {
+                    "type": "model",
+                    "model": "japan/kitsunemask/side_l"
+                }
+            },
+            {
+                "threshold": 1337007,
+                "model": {
+                    "type": "model",
+                    "model": "japan/kitsunemask/black_back"
+                }
+            },
+            {
+                "threshold": 1337008,
+                "model": {
+                    "type": "model",
+                    "model": "japan/kitsunemask/black_front"
+                }
+            },
+            {
+                "threshold": 1337009,
+                "model": {
+                    "type": "model",
+                    "model": "japan/kitsunemask/black_front_r"
+                }
+            },
+            {
+                "threshold": 1337010,
+                "model": {
+                    "type": "model",
+                    "model": "japan/kitsunemask/black_front_l"
+                }
+            },
+            {
+                "threshold": 1337011,
+                "model": {
+                    "type": "model",
+                    "model": "japan/kitsunemask/black_side_r"
+                }
+            },
+            {
+                "threshold": 1337012,
+                "model": {
+                    "type": "model",
+                    "model": "japan/kitsunemask/black_side_l"
+                }
+            },
+            {
+                "threshold": 1337013,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_popsicle/stick"
+                }
+            },
+            {
+                "threshold": 1337014,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_popsicle/1"
+                }
+            },
+            {
+                "threshold": 1337015,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_popsicle/2"
+                }
+            },
+            {
+                "threshold": 1337016,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_popsicle/3"
+                }
+            },
+            {
+                "threshold": 1337017,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_popsicle/4"
+                }
+            },
+            {
+                "threshold": 1337018,
+                "model": {
+                    "type": "model",
+                    "model": "pen/pencil"
+                }
+            },
+            {
+                "threshold": 1337019,
+                "model": {
+                    "type": "model",
+                    "model": "pen/fountain"
+                }
+            },
+            {
+                "threshold": 1337020,
+                "model": {
+                    "type": "model",
+                    "model": "pen/brush"
+                }
+            },
+            {
+                "threshold": 1337021,
+                "model": {
+                    "type": "model",
+                    "model": "pen/gold"
+                }
+            }
+        ]
+    }
+}

@@ -1,0 +1,82 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/golden_apple"
+        },
+        "entries": [
+            {
+                "threshold": 1337001,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/dragon_boat_festival_2023/ricedumpling_honey"
+                }
+            },
+            {
+                "threshold": 1337002,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/dragon_boat_festival_2023/ricedumpling_meat"
+                }
+            },
+            {
+                "threshold": 1337003,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/dragon_boat_festival_2023/ricedumpling_redbeans"
+                }
+            },
+            {
+                "threshold": 1337004,
+                "model": {
+                    "type": "model",
+                    "model": "food/hotdog"
+                }
+            },
+            {
+                "threshold": 1337005,
+                "model": {
+                    "type": "model",
+                    "model": "food/pizza_1"
+                }
+            },
+            {
+                "threshold": 1337006,
+                "model": {
+                    "type": "model",
+                    "model": "food/pizza_2"
+                }
+            },
+            {
+                "threshold": 1337007,
+                "model": {
+                    "type": "model",
+                    "model": "food/tofu_ramen"
+                }
+            },
+            {
+                "threshold": 1337008,
+                "model": {
+                    "type": "model",
+                    "model": "food/good"
+                }
+            },
+            {
+                "threshold": 1337009,
+                "model": {
+                    "type": "model",
+                    "model": "food/takoyaki"
+                }
+            },
+            {
+                "threshold": 1337010,
+                "model": {
+                    "type": "model",
+                    "model": "drink/boba"
+                }
+            }
+        ]
+    }
+}

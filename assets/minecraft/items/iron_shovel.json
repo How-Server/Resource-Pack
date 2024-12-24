@@ -1,0 +1,33 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/iron_shovel"
+        },
+        "entries": [
+            {
+                "threshold": 1337002,
+                "model": {
+                    "type": "model",
+                    "model": "custom/how_iron_shovel"
+                }
+            },
+            {
+                "threshold": 1337003,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/april_fools_2024/big_shovel"
+                }
+            },
+            {
+                "threshold": 1337004,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/april_fools_2024/sml_shovel"
+                }
+            }
+        ]
+    }
+}

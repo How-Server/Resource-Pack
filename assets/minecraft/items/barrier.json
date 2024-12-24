@@ -1,0 +1,89 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/barrier"
+        },
+        "entries": [
+            {
+                "threshold": 1337001,
+                "model": {
+                    "type": "model",
+                    "model": "mark_barrier/question_mark"
+                }
+            },
+            {
+                "threshold": 1337002,
+                "model": {
+                    "type": "model",
+                    "model": "mark_barrier/exclamation_mark"
+                }
+            },
+            {
+                "threshold": 1337003,
+                "model": {
+                    "type": "model",
+                    "model": "mark_barrier/plus_mark"
+                }
+            },
+            {
+                "threshold": 1337004,
+                "model": {
+                    "type": "model",
+                    "model": "mark_barrier/minus_mark"
+                }
+            },
+            {
+                "threshold": 1337005,
+                "model": {
+                    "type": "model",
+                    "model": "mark_barrier/multiplied_mark"
+                }
+            },
+            {
+                "threshold": 1337006,
+                "model": {
+                    "type": "model",
+                    "model": "mark_barrier/divided_mark"
+                }
+            },
+            {
+                "threshold": 1337007,
+                "model": {
+                    "type": "model",
+                    "model": "mark_barrier/equals_mark"
+                }
+            },
+            {
+                "threshold": 1337008,
+                "model": {
+                    "type": "model",
+                    "model": "mark_barrier/arrow_up"
+                }
+            },
+            {
+                "threshold": 1337009,
+                "model": {
+                    "type": "model",
+                    "model": "mark_barrier/arrow_down"
+                }
+            },
+            {
+                "threshold": 1337010,
+                "model": {
+                    "type": "model",
+                    "model": "mark_barrier/arrow_left"
+                }
+            },
+            {
+                "threshold": 1337011,
+                "model": {
+                    "type": "model",
+                    "model": "mark_barrier/arrow_right"
+                }
+            }
+        ]
+    }
+}

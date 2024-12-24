@@ -1,0 +1,145 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/paper"
+        },
+        "entries": [
+            {
+                "threshold": 1337001,
+                "model": {
+                    "type": "model",
+                    "model": "paper/paper_red"
+                }
+            },
+            {
+                "threshold": 1337002,
+                "model": {
+                    "type": "model",
+                    "model": "paper/paper_orange"
+                }
+            },
+            {
+                "threshold": 1337003,
+                "model": {
+                    "type": "model",
+                    "model": "paper/paper_yellow"
+                }
+            },
+            {
+                "threshold": 1337004,
+                "model": {
+                    "type": "model",
+                    "model": "paper/paper_green"
+                }
+            },
+            {
+                "threshold": 1337005,
+                "model": {
+                    "type": "model",
+                    "model": "paper/paper_blue"
+                }
+            },
+            {
+                "threshold": 1337006,
+                "model": {
+                    "type": "model",
+                    "model": "paper/paper_purple"
+                }
+            },
+            {
+                "threshold": 1337007,
+                "model": {
+                    "type": "model",
+                    "model": "paper/paper_black"
+                }
+            },
+            {
+                "threshold": 1337008,
+                "model": {
+                    "type": "model",
+                    "model": "paper/paper_rainbow"
+                }
+            },
+            {
+                "threshold": 1337031,
+                "model": {
+                    "type": "model",
+                    "model": "paper/money/token_how"
+                }
+            },
+            {
+                "threshold": 1337032,
+                "model": {
+                    "type": "model",
+                    "model": "paper/money/token_iekea"
+                }
+            },
+            {
+                "threshold": 1337033,
+                "model": {
+                    "type": "model",
+                    "model": "paper/money/token_head"
+                }
+            },
+            {
+                "threshold": 1337034,
+                "model": {
+                    "type": "model",
+                    "model": "paper/gacha/1"
+                }
+            },
+            {
+                "threshold": 1337035,
+                "model": {
+                    "type": "model",
+                    "model": "paper/bossfight/phantom"
+                }
+            },
+            {
+                "threshold": 1337036,
+                "model": {
+                    "type": "model",
+                    "model": "paper/money/token_traveler"
+                }
+            },
+            {
+                "threshold": 1337037,
+                "model": {
+                    "type": "model",
+                    "model": "ccr/renew"
+                }
+            },
+            {
+                "threshold": 1337038,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/april_fools_2024/token_how"
+                }
+            },
+            {
+                "threshold": 1337039,
+                "model": {
+                    "type": "model",
+                    "model": "paper/money/token_how2"
+                }
+            },
+            {
+                "threshold": 1337040,
+                "model": {
+                    "type": "model",
+                    "model": "paper/gacha/2"
+                }
+            },
+            {
+                "threshold": 1337041,
+                "model": {
+                    "type": "model",
+                    "model": "paper/bossfight/goat"
+                }
+            }
+        ]
+    }
+}
