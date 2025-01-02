@@ -46,13 +46,6 @@
                 "threshold": 6,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_figures/danny"
-                }
-            },
-            {
-                "threshold": 7,
-                "model": {
-                    "type": "model",
                     "model": "vip/how_figures/bsm"
                 }
             },
