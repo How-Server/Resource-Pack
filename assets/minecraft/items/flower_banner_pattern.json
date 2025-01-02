@@ -475,6 +475,27 @@
                     "type": "model",
                     "model": "vip/how_stick"
                 }
+            },
+            {
+                "threshold": 1337068,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/how_anniversary_2025/how_icon_1_21"
+                }
+            },
+            {
+                "threshold": 1337069,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/how_anniversary_2025/how_icon_1_21_2d"
+                }
+            },
+            {
+                "threshold": 1337070,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/how_anniversary_2025/how_icon_1_21_big"
+                }
             }
         ]
     }
