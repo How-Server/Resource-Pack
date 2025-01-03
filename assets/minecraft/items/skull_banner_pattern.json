@@ -354,7 +354,7 @@
                 "threshold": 1337044,
                 "model": {
                     "type": "model",
-                    "model": "special_event/christmas_2024/snowman/e_hat"
+                    "model": "special_event/christmas_2024/e_hat"
                 }
             }
         ]
