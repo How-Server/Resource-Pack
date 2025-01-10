@@ -120,7 +120,7 @@
                         "property": "minecraft:charge_type",
                         "fallback": {
                             "type": "minecraft:model",
-                            "model": "item/crossbow"
+                            "model": "vip/howbrella/folded"
                         },
                         "cases": [
                             {
