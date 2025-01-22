@@ -496,6 +496,76 @@
                     "type": "model",
                     "model": "special_event/how_anniversary_2025/how_icon_1_21_big"
                 }
+            },
+            {
+                "threshold": 1337071,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2025/couplets/1"
+                }
+            },
+            {
+                "threshold": 1337072,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2025/couplets/2"
+                }
+            },
+            {
+                "threshold": 1337073,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2025/couplets/3"
+                }
+            },
+            {
+                "threshold": 1337074,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2025/couplets/4"
+                }
+            },
+            {
+                "threshold": 1337075,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2025/couplets/5"
+                }
+            },
+            {
+                "threshold": 1337076,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2025/couplets/6"
+                }
+            },
+            {
+                "threshold": 1337077,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2025/couplets/7"
+                }
+            },
+            {
+                "threshold": 1337078,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2025/couplets/8"
+                }
+            },
+            {
+                "threshold": 1337079,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2025/couplets/long"
+                }
+            },
+            {
+                "threshold": 1337080,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2025/wand"
+                }
             }
         ]
     }
