@@ -370,7 +370,7 @@
                 "threshold": 1337046,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_paint_gun/light_gray"
+                    "model": "vip/how_paint_gun/orange"
                 }
             }
             ,
@@ -378,7 +378,7 @@
                 "threshold": 1337047,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_paint_gun/gray"
+                    "model": "vip/how_paint_gun/magenta"
                 }
             }
             ,
@@ -386,7 +386,7 @@
                 "threshold": 1337048,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_paint_gun/black"
+                    "model": "vip/how_paint_gun/light_blue"
                 }
             }
             ,
@@ -394,7 +394,7 @@
                 "threshold": 1337049,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_paint_gun/red"
+                    "model": "vip/how_paint_gun/yelow"
                 }
             }
             ,
@@ -402,7 +402,7 @@
                 "threshold": 1337050,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_paint_gun/orange"
+                    "model": "vip/how_paint_gun/lime"
                 }
             }
             ,
@@ -410,7 +410,7 @@
                 "threshold": 1337051,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_paint_gun/yellow"
+                    "model": "vip/how_paint_gun/pink"
                 }
             }
             ,
@@ -418,7 +418,7 @@
                 "threshold": 1337052,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_paint_gun/lime"
+                    "model": "vip/how_paint_gun/gray"
                 }
             }
             ,
@@ -426,7 +426,7 @@
                 "threshold": 1337053,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_paint_gun/green"
+                    "model": "vip/how_paint_gun/light_gray"
                 }
             }
             ,
@@ -434,7 +434,7 @@
                 "threshold": 1337054,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_paint_gun/light_blue"
+                    "model": "vip/how_paint_gun/cyan"
                 }
             }
             ,
@@ -442,7 +442,7 @@
                 "threshold": 1337055,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_paint_gun/cyan"
+                    "model": "vip/how_paint_gun/purple"
                 }
             }
             ,
@@ -458,7 +458,7 @@
                 "threshold": 1337057,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_paint_gun/purple"
+                    "model": "vip/how_paint_gun/brown"
                 }
             }
             ,
@@ -466,7 +466,7 @@
                 "threshold": 1337058,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_paint_gun/magenta"
+                    "model": "vip/how_paint_gun/green"
                 }
             }
             ,
@@ -474,7 +474,7 @@
                 "threshold": 1337059,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_paint_gun/pink"
+                    "model": "vip/how_paint_gun/red"
                 }
             }
             ,
@@ -482,7 +482,7 @@
                 "threshold": 1337060,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_paint_gun/brown"
+                    "model": "vip/how_paint_gun/black"
                 }
             }
         ]
