@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "item/vip/how_paint_gun/glass",
-		"1": "item/vip/how_paint_gun/colours/dark_gray",
+		"1": "item/vip/how_paint_gun/colours/gray",
 		"2": "item/vip/how_paint_gun/shell",
 		"3": "item/vip/how_paint_gun/body",
 		"4": "item/vip/how_paint_gun/hand",
