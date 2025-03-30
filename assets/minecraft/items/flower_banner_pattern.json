@@ -566,6 +566,48 @@
                     "type": "model",
                     "model": "special_event/chinese_new_year_2025/wand"
                 }
+            },
+            {
+                "threshold": 1337081,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/april_fools_2025/pig_head/default"
+                }
+            },
+            {
+                "threshold": 1337082,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/april_fools_2025/pig_head/warm"
+                }
+            },
+            {
+                "threshold": 1337083,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/april_fools_2025/pig_head/cold"
+                }
+            },
+            {
+                "threshold": 1337084,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/april_fools_2025/trophy/gold"
+                }
+            },
+            {
+                "threshold": 1337085,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/april_fools_2025/trophy/silver"
+                }
+            },
+            {
+                "threshold": 1337086,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/april_fools_2025/trophy/brozen"
+                }
             }
         ]
     }
