@@ -27,6 +27,13 @@
                     "type": "model",
                     "model": "special_event/april_fools_2024/weird"
                 }
+            },
+            {
+                "threshold": 1337004,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/april_fools_2025/rock"
+                }
             }
         ]
     }

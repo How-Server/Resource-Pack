@@ -608,6 +608,27 @@
                     "type": "model",
                     "model": "special_event/april_fools_2025/trophy/brozen"
                 }
+            },
+            {
+                "threshold": 1337087,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/april_fools_2025/pig_head_free/default"
+                }
+            },
+            {
+                "threshold": 1337088,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/april_fools_2025/pig_head_free/cold"
+                }
+            },
+            {
+                "threshold": 1337089,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/april_fools_2025/pig_head_free/warm"
+                }
             }
         ]
     }
