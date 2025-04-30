@@ -4,7 +4,7 @@
 	"textures": {
 		"0": "item/vip/how_chicken/bone",
 		"1": "item/vip/how_chicken/meat",
-		"particle": "item/vip/how_chicken/bone"
+		"particle": "item/vip/how_chicken/meat"
 	},
 	"elements": [
 		{
