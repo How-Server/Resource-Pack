@@ -50,6 +50,13 @@
                 }
             },
             {
+                "threshold": 7,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/yc"
+                }
+            },
+            {
                 "threshold": 1337001,
                 "model": {
                     "type": "model",
@@ -483,6 +490,14 @@
                 "model": {
                     "type": "model",
                     "model": "vip/how_paint_gun/black"
+                }
+            }
+            ,
+            {
+                "threshold": 1337061,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_helmet"
                 }
             }
         ]
