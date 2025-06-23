@@ -64,7 +64,7 @@
 		},
 		{
 			"type": "bitmap",
-			"file": "minecraft:how_banner/snapshot.png",
+			"file": "minecraft:how_banner/survival.png",
 			"height": 32,
 			"ascent": 32,
 			"chars": [
