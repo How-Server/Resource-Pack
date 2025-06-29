@@ -629,6 +629,13 @@
                     "type": "model",
                     "model": "special_event/april_fools_2025/pig_head_free/warm"
                 }
+            },
+            {
+                "threshold": 1337090,
+                "model": {
+                    "type": "model",
+                    "model": "spawn_egg/pig"
+                }
             }
         ]
     }

@@ -363,141 +363,131 @@
                     "type": "model",
                     "model": "special_event/christmas_2024/e_hat"
                 }
-            }
-            ,
+            },
             {
                 "threshold": 1337045,
                 "model": {
                     "type": "model",
                     "model": "vip/how_paint_gun/white"
                 }
-            }
-            ,
+            },
             {
                 "threshold": 1337046,
                 "model": {
                     "type": "model",
                     "model": "vip/how_paint_gun/orange"
                 }
-            }
-            ,
+            },
             {
                 "threshold": 1337047,
                 "model": {
                     "type": "model",
                     "model": "vip/how_paint_gun/magenta"
                 }
-            }
-            ,
+            },
             {
                 "threshold": 1337048,
                 "model": {
                     "type": "model",
                     "model": "vip/how_paint_gun/light_blue"
                 }
-            }
-            ,
+            },
             {
                 "threshold": 1337049,
                 "model": {
                     "type": "model",
                     "model": "vip/how_paint_gun/yellow"
                 }
-            }
-            ,
+            },
             {
                 "threshold": 1337050,
                 "model": {
                     "type": "model",
                     "model": "vip/how_paint_gun/lime"
                 }
-            }
-            ,
+            },
             {
                 "threshold": 1337051,
                 "model": {
                     "type": "model",
                     "model": "vip/how_paint_gun/pink"
                 }
-            }
-            ,
+            },
             {
                 "threshold": 1337052,
                 "model": {
                     "type": "model",
                     "model": "vip/how_paint_gun/gray"
                 }
-            }
-            ,
+            },
             {
                 "threshold": 1337053,
                 "model": {
                     "type": "model",
                     "model": "vip/how_paint_gun/light_gray"
                 }
-            }
-            ,
+            },
             {
                 "threshold": 1337054,
                 "model": {
                     "type": "model",
                     "model": "vip/how_paint_gun/cyan"
                 }
-            }
-            ,
+            },
             {
                 "threshold": 1337055,
                 "model": {
                     "type": "model",
                     "model": "vip/how_paint_gun/purple"
                 }
-            }
-            ,
+            },
             {
                 "threshold": 1337056,
                 "model": {
                     "type": "model",
                     "model": "vip/how_paint_gun/blue"
                 }
-            }
-            ,
+            },
             {
                 "threshold": 1337057,
                 "model": {
                     "type": "model",
                     "model": "vip/how_paint_gun/brown"
                 }
-            }
-            ,
+            },
             {
                 "threshold": 1337058,
                 "model": {
                     "type": "model",
                     "model": "vip/how_paint_gun/green"
                 }
-            }
-            ,
+            },
             {
                 "threshold": 1337059,
                 "model": {
                     "type": "model",
                     "model": "vip/how_paint_gun/red"
                 }
-            }
-            ,
+            },
             {
                 "threshold": 1337060,
                 "model": {
                     "type": "model",
                     "model": "vip/how_paint_gun/black"
                 }
-            }
-            ,
+            },
             {
                 "threshold": 1337061,
                 "model": {
                     "type": "model",
                     "model": "vip/how_helmet"
+                }
+            },
+            {
+                "threshold": 1337062,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_scythe"
                 }
             }
         ]
