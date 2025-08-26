@@ -20,6 +20,13 @@
                     "type": "model",
                     "model": "mace/hammer_back"
                 }
+            },
+            {
+                "threshold": 1337003,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_hammer"
+                }
             }
         ]
     }
