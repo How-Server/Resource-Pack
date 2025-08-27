@@ -17,13 +17,12 @@ jobs:
 
       - name: Create zip archive (clean)
         run: |
-          zip -r assets.zip ./* \
+          zip -r /tmp/assets.zip ./* \
             -x "*.git*" \
-            -x ".idea*" \
-            -x "assets.zip"
+            -x ".idea*"
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
           name: assets
-          path: assets.zip
+          path: /tmp/assets.zip
