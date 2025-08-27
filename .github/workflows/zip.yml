@@ -20,6 +20,7 @@ jobs:
           zip -r assets.zip ./* \
             -x "*.git*" \
             -x ".idea*" \
+            -x "assets.zip"
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
