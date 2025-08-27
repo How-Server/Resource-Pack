@@ -4,6 +4,9 @@ on:
   push:
     branches: [ "master" ]
 
+permissions:
+  contents: write
+
 jobs:
   release:
     runs-on: ubuntu-latest
@@ -12,17 +15,24 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
+      - name: Delete old release if exists
+        run: |
+          gh release delete latest -y || true
+          git push origin :refs/tags/latest || true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Create zip archive
         run: |
           zip -r assets.zip ./* \
             -x "*.git*" \
             -x ".idea*"
 
-      - name: Create or Update Release
+      - name: Create new Release
         uses: softprops/action-gh-release@v2
         with:
           tag_name: latest
-          release_name: Latest Build
+          name: Latest Build
           files: assets.zip
           draft: false
           prerelease: false
