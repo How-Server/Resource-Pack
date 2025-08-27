@@ -1,0 +1,28 @@
+name: Release Latest
+
+on:
+  push:
+    branches: [ "master" ]
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Create zip archive
+        run: |
+          zip -r assets.zip ./* \
+            -x "*.git*" \
+            -x ".idea*"
+
+      - name: Create or Update Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: latest
+          release_name: Latest Build
+          files: assets.zip
+          draft: false
+          prerelease: false
