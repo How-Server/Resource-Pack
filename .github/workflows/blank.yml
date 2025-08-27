@@ -1,0 +1,29 @@
+name: Build and Zip
+
+on:
+  push:
+    branches: [ "master" ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Install zip (if not installed)
+        run: sudo apt-get install -y zip
+
+      - name: Create zip archive
+        run: |
+          mkdir output
+          zip -r output/assets.zip . \
+            -x "*.git*" \
+            -x ".idea*"
+
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: assets-zip
+          path: output/assets.zip
