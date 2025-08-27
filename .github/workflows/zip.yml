@@ -15,15 +15,14 @@ jobs:
       - name: Install zip (if not installed)
         run: sudo apt-get install -y zip
 
-      - name: Create zip archive
+      - name: Create zip archive (clean)
         run: |
-          mkdir output
-          zip -r output/assets.zip . \
+          zip -r assets.zip ./* \
             -x "*.git*" \
-            -x ".idea*"
+            -x ".idea*" \
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: assets-zip
-          path: output/assets.zip
+          name: assets
+          path: assets.zip
