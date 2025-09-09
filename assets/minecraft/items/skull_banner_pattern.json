@@ -11,49 +11,118 @@
                 "threshold": 1,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_figures/babu"
+                    "model": "vip/how_figures/player/babu"
                 }
             },
             {
                 "threshold": 2,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_figures/baibai"
+                    "model": "vip/how_figures/player/baibai"
                 }
             },
             {
                 "threshold": 3,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_figures/oooo"
+                    "model": "vip/how_figures/player/oooo"
                 }
             },
             {
                 "threshold": 4,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_figures/cm"
+                    "model": "vip/how_figures/player/cm"
                 }
             },
             {
                 "threshold": 5,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_figures/x"
+                    "model": "vip/how_figures/player/x"
                 }
             },
             {
                 "threshold": 6,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_figures/bsm"
+                    "model": "vip/how_figures/player/bsm"
                 }
             },
             {
                 "threshold": 7,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_figures/yc"
+                    "model": "vip/how_figures/player/yc"
+                }
+            },{
+                "threshold": 8,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/s2/yeeray"
+                }
+            },
+            {
+                "threshold": 9,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/s2/ld"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/s2/kdy"
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/s2/hugo"
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/s2/mono_thor"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/gold/mono"
+                }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/gold/yang"
+                }
+            },
+            {
+                "threshold": 15,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/gold/rachael"
+                }
+            },
+            {
+                "threshold": 16,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/gold/72"
+                }
+            },
+            {
+                "threshold": 17,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/gold/tofu"
                 }
             },
             {
@@ -228,7 +297,7 @@
                 "threshold": 1337025,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_figures/howie"
+                    "model": "vip/how_figures/s1/howie"
                 }
             },
             {
@@ -270,42 +339,42 @@
                 "threshold": 1337031,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_figures/mono"
+                    "model": "vip/how_figures/s1/mono"
                 }
             },
             {
                 "threshold": 1337032,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_figures/rachael"
+                    "model": "vip/how_figures/s1/rachael"
                 }
             },
             {
                 "threshold": 1337033,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_figures/72"
+                    "model": "vip/how_figures/s1/72"
                 }
             },
             {
                 "threshold": 1337034,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_figures/yang"
+                    "model": "vip/how_figures/s1/yang"
                 }
             },
             {
                 "threshold": 1337035,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_figures/tofu"
+                    "model": "vip/how_figures/s1/tofu"
                 }
             },
             {
                 "threshold": 1337036,
                 "model": {
                     "type": "model",
-                    "model": "vip/how_figures/gold"
+                    "model": "vip/how_figures/gold/howie"
                 }
             },
             {
