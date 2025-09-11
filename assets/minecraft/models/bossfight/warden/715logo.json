@@ -1,0 +1,46 @@
+{
+	"format_version": "1.21.6",
+	"credit": "Made with Blockbench",
+	"texture_size": [32, 32],
+	"textures": {
+		"1": "item/bossfight/warden/715logo"
+	},
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 0],
+			"faces": {
+				"north": {"uv": [0.5, 0.5, 15.5, 15.5], "texture": "#1"},
+				"east": {"uv": [0, 0, 2, 16], "texture": "#1"},
+				"south": {"uv": [0.5, 0.5, 15.5, 15.5], "texture": "#1"},
+				"west": {"uv": [0, 0, 2, 16], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 2], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 2], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 5.75, 8.5]
+		},
+		"thirdperson_lefthand": {
+			"translation": [0, 5.5, 9.5]
+		},
+		"firstperson_righthand": {
+			"translation": [7.25, 3.5, 0]
+		},
+		"firstperson_lefthand": {
+			"translation": [6.25, 3.5, 0]
+		},
+		"ground": {
+			"translation": [0, 5, 5.75]
+		},
+		"gui": {
+			"translation": [0, -0.25, 0]
+		},
+		"fixed": {
+			"translation": [0, 0, 15.75],
+			"scale": [2, 2, 2]
+		}
+	}
+}

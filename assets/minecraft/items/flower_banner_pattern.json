@@ -636,6 +636,13 @@
                     "type": "model",
                     "model": "spawn_egg/pig"
                 }
+            },
+            {
+                "threshold": 1337091,
+                "model": {
+                    "type": "model",
+                    "model": "bossfight/warden/715logo"
+                }
             }
         ]
     }
