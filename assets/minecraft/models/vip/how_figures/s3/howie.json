@@ -7,6 +7,7 @@
 		"1": "item/vip/admin_models/s3_figure",
 		"2": "item/special_event/halloween_2025/pumpkin_e",
 		"3": "item/special_event/halloween_2025/pumpkin_top",
+		"4": "item/special_event/halloween_2025/pumpkin_side",
 		"particle": "item/vip/admin_models/howie_s3"
 	},
 	"elements": [
@@ -269,9 +270,9 @@
 			"rotation": {"angle": 0, "axis": "x", "origin": [7.5, 17, 7.5]},
 			"faces": {
 				"north": {"uv": [0, 0, 16, 16], "texture": "#2"},
-				"east": {"uv": [0, 0, 16, 16], "texture": "#2"},
-				"south": {"uv": [0, 0, 16, 16], "texture": "#2"},
-				"west": {"uv": [0, 0, 16, 16], "texture": "#2"},
+				"east": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"south": {"uv": [0, 0, 16, 16], "texture": "#4"},
+				"west": {"uv": [0, 0, 16, 16], "texture": "#4"},
 				"up": {"uv": [16, 16, 0, 0], "texture": "#3"},
 				"down": {"uv": [16, 0, 0, 16], "texture": "#3"}
 			}
