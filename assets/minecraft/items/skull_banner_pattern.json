@@ -126,6 +126,48 @@
                 }
             },
             {
+                "threshold": 1001,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/s3/mono"
+                }
+            },
+            {
+                "threshold": 1002,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/s3/yang"
+                }
+            },
+            {
+                "threshold": 1003,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/s3/rachael"
+                }
+            },
+            {
+                "threshold": 1004,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/s3/72"
+                }
+            },
+            {
+                "threshold": 1005,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/s3/tofu"
+                }
+            },
+            {
+                "threshold": 1006,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/s3/howie"
+                }
+            },
+            {
                 "threshold": 1337001,
                 "model": {
                     "type": "model",
