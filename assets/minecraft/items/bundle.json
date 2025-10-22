@@ -48,6 +48,13 @@
                     "type": "model",
                     "model": "special_event/chinese_valentines_2024/choco/2"
                 }
+            },
+            {
+                "threshold": 1337004,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/halloween_2025/pumpkin_basket"
+                }
             }
         ]
     }
