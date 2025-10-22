@@ -55,7 +55,8 @@
                     "type": "model",
                     "model": "vip/how_figures/player/yc"
                 }
-            },{
+            },
+            {
                 "threshold": 8,
                 "model": {
                     "type": "model",
@@ -165,6 +166,55 @@
                 "model": {
                     "type": "model",
                     "model": "vip/how_figures/s3/howie"
+                }
+            },
+            {
+                "threshold": 20001,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/player/babu"
+                }
+            },
+            {
+                "threshold": 20002,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/player/baibai"
+                }
+            },
+            {
+                "threshold": 20003,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/player/oooo"
+                }
+            },
+            {
+                "threshold": 20004,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/player/cm"
+                }
+            },
+            {
+                "threshold": 20005,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/player/x"
+                }
+            },
+            {
+                "threshold": 20006,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/player/bsm"
+                }
+            },
+            {
+                "threshold": 20007,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/player/yc"
                 }
             },
             {
