@@ -650,6 +650,27 @@
                     "type": "model",
                     "model": "vip/how_scythe"
                 }
+            },
+            {
+                "threshold": 1337063,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_gingerbread/chocolate"
+                }
+            },
+            {
+                "threshold": 1337064,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_gingerbread/mixed"
+                }
+            },
+            {
+                "threshold": 1337065,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_gingerbread/original"
+                }
             }
         ]
     }
