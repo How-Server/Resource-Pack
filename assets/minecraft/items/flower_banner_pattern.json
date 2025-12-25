@@ -643,6 +643,27 @@
                     "type": "model",
                     "model": "bossfight/warden/715logo"
                 }
+            },
+            {
+                "threshold": 1337092,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/how_anniversary_2026/how_icon_26"
+                }
+            },
+            {
+                "threshold": 1337093,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/how_anniversary_2026/how_icon_26_2d"
+                }
+            },
+            {
+                "threshold": 1337094,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/how_anniversary_2026/how_icon_26_big"
+                }
             }
         ]
     }
