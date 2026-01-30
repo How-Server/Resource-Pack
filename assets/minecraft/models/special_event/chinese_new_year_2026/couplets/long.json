@@ -1,0 +1,61 @@
+{
+	"format_version": "1.21.11",
+	"credit": "Made with Blockbench",
+	"texture_size": [160, 400],
+	"textures": {
+		"1": "item/special_event/chinese_new_year_2026/couplets/long"
+	},
+	"elements": [
+		{
+			"from": [0, 0, -16],
+			"to": [16, 0.275, 23],
+			"faces": {
+				"north": {"uv": [0, 0, 16, 0.275], "texture": "#1"},
+				"east": {"uv": [0, 0, 16, 0.275], "texture": "#1"},
+				"south": {"uv": [0, 0, 16, 0.275], "texture": "#1"},
+				"west": {"uv": [0, 0, 16, 0.275], "texture": "#1"},
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 3.84375, 3.35156], "texture": "#1"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [175, -34, 175],
+			"translation": [0.5, 2.75, -5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [175, 34, 175],
+			"translation": [-0.75, 2.75, -5],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_righthand": {
+			"rotation": [67, 16, 53],
+			"translation": [-0.5, 2.5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"firstperson_lefthand": {
+			"rotation": [126, -30, 84],
+			"translation": [-2, 4.5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		},
+		"ground": {
+			"translation": [0, 5, 4]
+		},
+		"gui": {
+			"rotation": [75, 31, -21],
+			"translation": [1.75, 0, 0],
+			"scale": [0.4, 0.4, 0.4]
+		},
+		"head": {
+			"rotation": [90, 0, -180],
+			"translation": [0, 18.5, -11.75]
+		},
+		"fixed": {
+			"rotation": [-90, -180, 0],
+			"translation": [0, -9, -15.75],
+			"scale": [2, 2, 2]
+		}
+	}
+}

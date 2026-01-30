@@ -664,6 +664,69 @@
                     "type": "model",
                     "model": "special_event/how_anniversary_2026/how_icon_26_big"
                 }
+            },
+            {
+                "threshold": 1337095,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2026/couplets/1"
+                }
+            },
+            {
+                "threshold": 1337096,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2026/couplets/2"
+                }
+            },
+            {
+                "threshold": 1337097,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2026/couplets/3"
+                }
+            },
+            {
+                "threshold": 1337098,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2026/couplets/4"
+                }
+            },
+            {
+                "threshold": 1337099,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2026/couplets/5"
+                }
+            },
+            {
+                "threshold": 1337100,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2026/couplets/6"
+                }
+            },
+            {
+                "threshold": 1337101,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2026/couplets/7"
+                }
+            },
+            {
+                "threshold": 1337102,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2026/couplets/8"
+                }
+            },
+            {
+                "threshold": 1337103,
+                "model": {
+                    "type": "model",
+                    "model": "special_event/chinese_new_year_2026/couplets/long"
+                }
             }
         ]
     }
