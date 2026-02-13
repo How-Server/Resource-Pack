@@ -1,4 +1,5 @@
 {
+	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
@@ -4204,7 +4205,7 @@
 	],
 	"display": {
 		"thirdperson_righthand": {
-			"rotation": [180, -119, 0],
+			"rotation": [-180, -119, 0],
 			"translation": [0.5, 6.5, 0.5],
 			"scale": [0.2, 1.04, 0.2]
 		},
@@ -4240,6 +4241,10 @@
 		},
 		"fixed": {
 			"translation": [0, -7.75, -1.75],
+			"scale": [0.24, 1.52, 0.24]
+		},
+		"on_shelf": {
+			"translation": [0, -14, 3],
 			"scale": [0.24, 1.52, 0.24]
 		}
 	},
