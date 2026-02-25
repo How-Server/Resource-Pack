@@ -169,6 +169,41 @@
                 }
             },
             {
+                "threshold": 24,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/s4/yang"
+                }
+            },
+            {
+                "threshold": 25,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/s4/rachael"
+                }
+            },
+            {
+                "threshold": 26,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/s4/72"
+                }
+            },
+            {
+                "threshold": 27,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/s4/mono"
+                }
+            },
+            {
+                "threshold": 28,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_figures/s4/howie"
+                }
+            },
+            {
                 "threshold": 20001,
                 "model": {
                     "type": "model",
