@@ -84,7 +84,7 @@
 			"name": "right_arm_2nd_layer",
 			"from": [8.79634, -6.04791, 5.7],
 			"to": [13.34634, -5.04791, 10.3],
-			"rotation": {"x": 2.5, "y": 0, "z": 0, "origin": [11.1, 2.2, 8]},
+			"rotation": {"angle": 2.5, "axis": "x", "origin": [11.1, 2.2, 8]},
 			"faces": {
 				"north": {"uv": [10.75, 11.25, 11.5, 11.5], "texture": "#0"},
 				"east": {"uv": [10, 11.25, 11, 11.5], "texture": "#0"},
@@ -782,7 +782,7 @@
 		},
 		"gui": {
 			"rotation": [25, -145, 2],
-			"translation": [0, -1.25, 0],
+			"translation": [0, -1, 0],
 			"scale": [0.3, 0.3, 0.3]
 		},
 		"head": {
