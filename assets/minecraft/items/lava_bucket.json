@@ -1,0 +1,43 @@
+{
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "item/lava_bucket"
+        },
+        "entries": [
+            {
+                "threshold": 1337001,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_toilet_paper/lava/1"
+                }
+            },{
+                "threshold": 1337002,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_toilet_paper/lava/2"
+                }
+            },{
+                "threshold": 1337003,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_toilet_paper/lava/3"
+                }
+            },{
+                "threshold": 1337004,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_toilet_paper/lava/4"
+                }
+            },{
+                "threshold": 1337005,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_toilet_paper/lava/5"
+                }
+            }
+        ]
+    }
+}
