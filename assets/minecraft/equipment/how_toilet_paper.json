@@ -1,0 +1,14 @@
+{
+  "layers": {
+    "humanoid": [
+      {
+        "texture": "minecraft:how_toilet_paper"
+      }
+    ],
+    "humanoid_leggings": [
+      {
+        "texture": "minecraft:how_toilet_paper"
+      }
+    ]
+  }
+}
