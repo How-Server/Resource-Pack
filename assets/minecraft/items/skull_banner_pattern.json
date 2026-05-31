@@ -706,6 +706,13 @@
                     "type": "model",
                     "model": "vip/how_gingerbread/original"
                 }
+            },
+            {
+                "threshold": 1337066,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_rocket"
+                }
             }
         ]
     }
