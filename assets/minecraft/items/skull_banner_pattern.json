@@ -713,6 +713,13 @@
                     "type": "model",
                     "model": "vip/how_rocket"
                 }
+            },
+            {
+                "threshold": 1337067,
+                "model": {
+                    "type": "model",
+                    "model": "vip/how_banana"
+                }
             }
         ]
     }
